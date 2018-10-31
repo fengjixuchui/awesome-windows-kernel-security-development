@@ -6,6 +6,10 @@
 
 :heart:
 
+## windows kernel driver
+
+-  https://github.com/mq1n/EasyRing0
+
 ## windows kernel driver with c++ runtime
 
 -  https://github.com/HoShiMin/Kernel-Bridge
@@ -136,6 +140,7 @@
 
 ## anti dll inject
 
+-  https://github.com/mq1n/DLLThreadInjectionDetector
 -  https://github.com/analyst004/antinject
 -  https://github.com/ExpLife/BotKiller
 
@@ -221,6 +226,9 @@
 
 ## minifilter
 
+-  https://github.com/hedgeh/SEWindows (HIPS)
+-  https://github.com/474172261/DataProtector
+-  https://github.com/CynicalApe/Minifilter-CSHARP-ConsoleApp
 -  https://github.com/NtRaiseHardError/Anti-Delete (File anti delete)
 -  https://github.com/Randomize163/FSDefender
 -  https://github.com/ETEFS/ETEFS_Mini
@@ -438,6 +446,7 @@
 
 ## malware analysis
 
+-  https://github.com/unexpectedBy/Automated-Malware-Analysis-List
 -  https://github.com/wchen-r7/amsiscanner (Microsoft's Antimalware Scan Interface)
 -  https://github.com/ctxis/capemon
 -  https://github.com/kevthehermit/RATDecoders
@@ -497,6 +506,7 @@
 
 ## HackSysExtremeVulnerableDriver
 
+-  https://github.com/redogwu/windows_kernel_exploit
 -  https://github.com/mgeeky/HEVD_Kernel_Exploit
 -  https://www.fuzzysecurity.com/tutorials.html
 -  https://rootkits.xyz/blog/
@@ -524,6 +534,11 @@
 
 ## windows kernel exploits
 
+-  https://github.com/siberas/CVE-2016-3309_Reloaded
+-  https://github.com/moccajoghurt/drvmap_secure
+-  https://github.com/fishstiqz/poolinfo
+-  https://github.com/cbayet/Exploit-CVE-2017-6008
+-  https://github.com/cbayet/PoolSprayer (pool spray)
 -  https://github.com/DownWithUp/CVE-2018-15499 (race condition)
 -  https://github.com/SandboxEscaper/randomrepo (win10 LPE)
 -  https://github.com/jackson5-sec/TaskSchedLPE (LPE)
@@ -727,6 +742,7 @@
 
 ## game hack
 
+-  https://github.com/moccajoghurt/MemWars
 -  https://github.com/dsasmblr/hacking-online-games
 -  https://github.com/dsasmblr/game-hacking
 -  https://github.com/daswareinfach/Battleye-VAC-EAC-Kernel-Bypass (BattlEye)
@@ -769,6 +785,7 @@
 
 ## anti cheat
 
+-  https://github.com/mq1n/NoMercy
 -  https://github.com/SagaanTheEpic/Sagaan-AntiCheat-V2.0
 -  https://github.com/SagaanTheEpic/SAC-Sagaan-AntiCheat-Module-
 -  https://github.com/SagaanTheEpic/SAC-Anti-Debug
@@ -858,6 +875,7 @@
 
 ## ida script & plugin
 
+-  https://github.com/a1ext/labeless 
 -  https://github.com/kkHAIKE/tinyidb
 -  https://github.com/RolfRolles/HexRaysDeob (deobfuscate)
 -  https://github.com/icewall/BinDiffFilter
@@ -1037,6 +1055,7 @@
 
 ## ring3 nt api
 
+-  https://github.com/processhacker/phnt
 -  https://github.com/ntdiff/ntdiff
 -  https://ntdiff.github.io
 -  https://github.com/ntdiff/headers
@@ -1113,6 +1132,7 @@
 
 ## awesome
 
+-  https://github.com/CHYbeta/Software-Security-Learning
 -  https://github.com/0x4D31/awesome-threat-detection
 -  https://github.com/Escapingbug/awesome-browser-exploit
 -  https://github.com/CaledoniaProject/awesome-opensource-security
@@ -1205,8 +1225,20 @@
 
 -  https://github.com/muxq/hellorpc
 
+## adblock
+
+-  https://github.com/adblockplus/adblockplusie
+-  https://github.com/adblockplus/adblockpluscore
+-  https://github.com/adblockplus/libadblockplus
+
 ## miscellaneous
 
+-  https://github.com/AntiRootkit/HandleSpy
+-  https://github.com/securifera/HeapMonitor
+-  https://github.com/securifera/serviceFu
+-  https://github.com/mq1n/WSWatcher
+-  https://github.com/imagemlt/EasyKnife (CKnife)
+-  https://github.com/didi/kemon (macOS Kernel Monitoring Callback Framework)
 -  https://github.com/Microsoft/microsoft-pdb (pdb format)
 -  https://github.com/Darm64/XNU
 -  https://github.com/netromdk/bmod
