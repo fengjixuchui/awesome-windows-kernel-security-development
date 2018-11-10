@@ -6,8 +6,26 @@
 
 :heart:
 
+## direct ui
+
+-  https://github.com/nmgwddj/duilib_tutorial
+-  https://github.com/redrains/DuiLib_Redrain
+-  https://github.com/nmgwddj/InstallAssist
+-  https://github.com/netease-im/NIM_PC_UIKit
+-  https://github.com/nmgwddj/Optimizer
+-  https://github.com/nmgwddj/BarPCMaster (netbar)
+
+## windows system programming
+
+-  https://github.com/nmgwddj/logs-monitor
+-  https://github.com/nmgwddj/TaskbarTool
+-  https://github.com/nmgwddj/DevCon
+-  https://github.com/nmgwddj/SystemProcessInfo
+-  https://github.com/nmgwddj/ServiceMgr
+
 ## windows kernel driver
 
+-  https://github.com/nmgwddj/learn-windows-drivers
 -  https://github.com/mq1n/EasyRing0
 
 ## windows kernel driver with c++ runtime
@@ -110,6 +128,7 @@
 
 ## hook engine
 
+-  https://github.com/stevemk14ebr/PolyHook
 -  https://github.com/TsudaKageyu/minhook
 -  https://github.com/martona/mhook
 -  https://github.com/Microsoft/Detours
@@ -691,6 +710,7 @@
 
 ## cve
 
+-  https://github.com/LyleMi/dom-vuln-db
 -  https://github.com/renorobert/virtualbox-cve-2018-2844
 -  https://github.com/LiuCan01/cve-list-pro
 -  https://github.com/CVEProject/cvelist
@@ -784,6 +804,7 @@
 
 ## game hack
 
+-  https://github.com/danielkrupinski/Osiris (Counter-Strike)
 -  https://github.com/moccajoghurt/MemWars
 -  https://github.com/dsasmblr/hacking-online-games
 -  https://github.com/dsasmblr/game-hacking
@@ -920,6 +941,7 @@
 
 ## ida script & plugin
 
+-  https://github.com/IOActive/kmdf_re
 -  https://github.com/a1ext/labeless 
 -  https://github.com/kkHAIKE/tinyidb
 -  https://github.com/RolfRolles/HexRaysDeob (deobfuscate)
@@ -1202,6 +1224,7 @@
 
 ## windbg preview & jsprovider
 
+- https://github.com/Microsoft/WinDbg-Samples
 - https://bbs.pediy.com/thread-246449.htm
 - http://doar-e.github.io/blog/2017/12/01/debugger-data-model/
 
@@ -1297,6 +1320,8 @@
 
 ## miscellaneous
 
+-  https://github.com/nmgwddj/HttpSourceViewer
+-  https://github.com/nmgwddj/nvapi-example (Digital Vibrance Controls)
 -  https://github.com/n1nj4sec/memorpy
 -  https://github.com/TinyCC/tinycc
 -  https://github.com/msuhanov/regf (reg formats)
@@ -1379,6 +1404,7 @@
 
 ## blogs
 
+-  http://www.mycode.net.cn/
 -  http://split-code.com
 -  http://eternalsakura13.com
 -  https://xiaodaozhi.com/ 
