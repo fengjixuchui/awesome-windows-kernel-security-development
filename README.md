@@ -5,7 +5,7 @@
 # `awesome-windows-kernel-security-development`
 
 :heart:
-
+    
 ## direct ui
 
 -  https://github.com/nmgwddj/duilib_tutorial
@@ -17,6 +17,9 @@
 
 ## windows system programming
 
+-  https://github.com/Microsoft/winfile
+-  https://github.com/mullvad/windows-libraries
+-  https://github.com/wjcsharp/wintools
 -  https://github.com/nmgwddj/logs-monitor
 -  https://github.com/nmgwddj/TaskbarTool
 -  https://github.com/nmgwddj/DevCon
@@ -25,6 +28,8 @@
 
 ## windows kernel driver
 
+-  https://github.com/tdevuser/MalwFinder
+-  https://github.com/Sqdwr/WriteFile_IRP
 -  https://github.com/nmgwddj/learn-windows-drivers
 -  https://github.com/mq1n/EasyRing0
 
@@ -120,6 +125,7 @@
 -  https://github.com/WopsS/RenHook
 -  https://github.com/chinatiny/InlineHookLib (R3 & R0)
 -  https://github.com/tongzeyu/HookSysenter
+-  https://github.com/idkwim/frookSINATRA  (x64 sysenter hook)
 -  https://github.com/VideoCardGuy/HideProcessInTaskmgr
 -  https://github.com/MalwareTech/FstHook
 -  https://github.com/Menooker/FishHook
@@ -128,6 +134,7 @@
 
 ## hook engine
 
+-  https://github.com/Synestraa/ArchUltimate.HookLib
 -  https://github.com/stevemk14ebr/PolyHook
 -  https://github.com/TsudaKageyu/minhook
 -  https://github.com/martona/mhook
@@ -323,8 +330,9 @@
 
 -  https://github.com/avalon1610/ALPC
 
-## lsp
+## lsp/spi
 
+-  https://github.com/TinkerBravo/SPIRemove
 -  https://github.com/AnwarMohamed/Packetyzer
 
 ## afd
@@ -346,6 +354,7 @@
 
 ## wfp
 
+-  https://github.com/TinkerBravo/WFPKit
 -  https://github.com/Arno0x/DivertTCPconn
 -  https://github.com/mullvad/libwfp
 -  https://github.com/gifur/NetworkMnt
@@ -396,6 +405,7 @@
 
 ## rootkits
 
+-  https://github.com/Synestraa/Highcall-Library (Highcall)
 -  https://github.com/Microwave89/drvtricks
 -  https://github.com/Psychotropos/xhunter1_privesc (XIGNCODE3)
 -  https://github.com/ionescu007/r0ak (RWE)
@@ -520,6 +530,7 @@
 
 ## arktools
 
+-  https://github.com/hedgeh/SEWindows (doc:hedgeh.github.io/startup.html)
 -  https://github.com/glmcdona/MALM
 -  https://github.com/ahmad-siavashi/Ana-Process-Explorer
 -  https://github.com/alex9191/KernelModeMonitor
@@ -594,6 +605,7 @@
 
 ## windows kernel exploits
 
+-  https://github.com/saaramar/execve_exploit (WSL)
 -  https://github.com/siberas/CVE-2016-3309_Reloaded
 -  https://github.com/moccajoghurt/drvmap_secure
 -  https://github.com/fishstiqz/poolinfo
@@ -664,6 +676,7 @@
 
 ## LPE
 
+-  https://github.com/khr0x40sh/WhiteListEvasion
 -  https://github.com/ohpe/juicy-potato
 -  https://github.com/nmulasmajic/syscall_exploit_CVE-2018-8897
 -  https://github.com/codewhitesec/UnmarshalPwn
@@ -738,6 +751,7 @@
 
 ## vt
 
+-  https://github.com/xdel/bluepillstudy
 -  https://github.com/SinaKarvandi/Hypervisor-From-Scratch
 -  https://github.com/wbenny/hvpp
 -  https://github.com/Sqdwr/Multi_CPU_VtBase
@@ -774,6 +788,7 @@
 
 ## fuzzer
 
+-  https://github.com/sogeti-esec-lab/RPCForge
 -  https://github.com/RootUp/BFuzz
 -  https://github.com/necst/crave
 -  https://github.com/IOActive/FuzzNDIS
@@ -804,6 +819,7 @@
 
 ## game hack
 
+-  https://github.com/GameHackingBook/GameHackingCode
 -  https://github.com/danielkrupinski/Osiris (Counter-Strike)
 -  https://github.com/moccajoghurt/MemWars
 -  https://github.com/dsasmblr/hacking-online-games
@@ -921,6 +937,7 @@
 
 ## x64dbg plugin
 
+-  https://github.com/Gbps/x64dbg-consonance-theme
 -  https://github.com/ThunderCls/xAnalyzer
 -  https://github.com/mrexodia/TitanHide
 -  https://github.com/x64dbg/InterObfu
@@ -935,6 +952,7 @@
 
 ## windbg plugin
 
+- https://github.com/panoramixor/GDIObjDump
 - https://codeday.me/bug/20171003/80216.html
 - http://virtualkd.sysprogs.org/
 - https://github.com/VincentSe/WatchTrees
@@ -1079,6 +1097,7 @@
 
 ## pykd
 
+-  https://github.com/sogeti-esec-lab/LKD
 -  https://www.anquanke.com/post/id/86909
 -  https://www.anquanke.com/post/id/86896
 -  https://www.anquanke.com/post/id/83205
@@ -1320,6 +1339,7 @@
 
 ## miscellaneous
 
+-  https://github.com/wjcsharp/wintools
 -  https://github.com/nmgwddj/HttpSourceViewer
 -  https://github.com/nmgwddj/nvapi-example (Digital Vibrance Controls)
 -  https://github.com/n1nj4sec/memorpy
@@ -1404,6 +1424,7 @@
 
 ## blogs
 
+-  https://secrary.com/RandomPosts
 -  http://www.mycode.net.cn/
 -  http://split-code.com
 -  http://eternalsakura13.com
@@ -1549,6 +1570,7 @@
 
 ## paper
 
+-  https://translation-zh-cn.readthedocs.io/zh_CN/
 -  https://speakerdeck.com
 
 ## ebook
@@ -1567,3 +1589,5 @@
 ## library
 
 -  https://www.ctolib.com/
+
+# `awesome-windows-kernel-security-development`
