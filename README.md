@@ -17,6 +17,10 @@
 
 ## windows system programming
 
+-  https://github.com/NoMoreFood/putty-cac
+-  https://github.com/NoMoreFood/Repacls
+-  https://github.com/NoMoreFood/WinPriv
+-  https://github.com/NoMoreFood/Crypture
 -  https://github.com/Microsoft/winfile
 -  https://github.com/mullvad/windows-libraries
 -  https://github.com/wjcsharp/wintools
@@ -135,11 +139,15 @@
 ## hook engine
 
 -  https://github.com/Synestraa/ArchUltimate.HookLib
+-  https://github.com/DominicTobias/detourxs
+-  https://github.com/Ilyatk/HookEngine
+-  https://github.com/zyantific/zyan-hook-engine
+-  https://github.com/martona/mhook
+-  https://github.com/EasyHook/EasyHook
+-  https://github.com/RelicOfTesla/Detours
 -  https://github.com/stevemk14ebr/PolyHook
 -  https://github.com/TsudaKageyu/minhook
--  https://github.com/martona/mhook
 -  https://github.com/Microsoft/Detours
--  https://github.com/EasyHook/EasyHook
 -  https://github.com/Microwave89/ntapihook
 
 ## anti hook
@@ -263,16 +271,6 @@
 -  https://github.com/9176324/KernelMemoryModule (Enable Exception)
 -  https://github.com/not-wlan/driver-hijack
 -  https://github.com/Professor-plum/Reflective-Driver-Loader
-
-## hook engine
-
--  https://github.com/Synestraa/ArchUltimate.HookLib
--  https://github.com/DominicTobias/detourxs
--  https://github.com/Ilyatk/HookEngine
--  https://github.com/zyantific/zyan-hook-engine
--  https://github.com/martona/mhook
--  https://github.com/EasyHook/EasyHook
--  https://github.com/RelicOfTesla/Detours
 
 ## bypass memory scanner
 
@@ -514,8 +512,13 @@
 -  https://github.com/xmrig/xmrig
 -  https://github.com/TolgaSEZER/EternalPulse 
 
+## shellcode analysis
+
+-  https://github.com/OALabs/BlobRunner
+
 ## malware analysis
 
+-  https://github.com/MalwareCantFly/Vba2Graph
 -  https://github.com/unexpectedBy/Automated-Malware-Analysis-List
 -  https://github.com/wchen-r7/amsiscanner (Microsoft's Antimalware Scan Interface)
 -  https://github.com/ctxis/capemon
@@ -959,6 +962,7 @@
 
 ## ida script & plugin
 
+-  https://github.com/ecx86/classinformer-ida7
 -  https://github.com/IOActive/kmdf_re
 -  https://github.com/a1ext/labeless 
 -  https://github.com/kkHAIKE/tinyidb
@@ -1219,6 +1223,7 @@
 
 ## awesome
 
+-  https://github.com/phith0n/Mind-Map
 -  https://github.com/CHYbeta/Software-Security-Learning
 -  https://github.com/0x4D31/awesome-threat-detection
 -  https://github.com/Escapingbug/awesome-browser-exploit
@@ -1570,6 +1575,7 @@
 
 ## paper
 
+-  https://github.com/tyranid/WindowsRuntimeSecurityDemos
 -  https://translation-zh-cn.readthedocs.io/zh_CN/
 -  https://speakerdeck.com
 
