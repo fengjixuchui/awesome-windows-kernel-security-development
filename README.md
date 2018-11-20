@@ -156,6 +156,8 @@
 
 ## inject technique
 
+-  https://github.com/BorjaMerino/tlsInjector (tls)
+-  https://github.com/BorjaMerino/Pazuzu (InjectFromMemory)
 -  https://github.com/strobejb/injdll
 -  https://github.com/alex9191/Kernel-dll-injector (DllInjectFromKernel)
 -  https://github.com/strivexjun/DriverInjectDll (MapInjectDll)
@@ -315,6 +317,7 @@
 
 ## virtual file system
 
+-  https://github.com/ufrisk/MemProcFS (The Memory Process File System)
 -  https://github.com/TanninOne/usvfs
 -  https://github.com/ExpLife/CodeUMVFS
 -  https://github.com/yogendersolanki91/ProcessFileSystem
@@ -488,6 +491,8 @@
 
 ## malware
 
+-  https://github.com/malwaredllc/bamf
+-  https://github.com/malwaredllc/byob (py)
 -  https://github.com/fereh/tacekit
 -  https://github.com/eset/malware-ioc
 -  https://github.com/lianglixin/RemoteControl-X3
@@ -1591,6 +1596,13 @@
 -  https://github.com/l3m0n/pentest_study
 -  https://github.com/l3m0n/pentest_tools
 -  https://github.com/l3m0n/linux_information
+
+## pac
+
+-  http://www.devnotes.in/2014/11/08/auto-proxy-settings-with-PAC.html
+-  http://www.lybbn.cn/data/datas.php?yw=76
+-  https://blog.huzhifeng.com/2017/07/16/PAC/
+-  https://github.com/manugarg/pacparser
 
 ## library
 
