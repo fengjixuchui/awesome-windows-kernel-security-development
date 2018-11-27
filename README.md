@@ -17,6 +17,9 @@
 
 ## windows system programming
 
+-  https://github.com/OSRDrivers/dirchange
+-  https://github.com/OSRDrivers/deleteex (FileDispositionInfoEx)
+-  https://github.com/notscimmy/YASS (sig scanner)
 -  https://github.com/942860759/BrowserHistory
 -  https://github.com/NoMoreFood/putty-cac
 -  https://github.com/NoMoreFood/Repacls
@@ -71,6 +74,7 @@
 
 ## dkom
 
+-  https://github.com/notscimmy/pplib
 -  https://blog.csdn.net/zhuhuibeishadiao/article/details/51136650 (get process full path name)
 -  https://bbs.pediy.com/thread-96427.htm (modify process image name)
 -  https://github.com/ZhuHuiBeiShaDiao/PathModification
@@ -157,6 +161,7 @@
 
 ## inject technique
 
+-  https://github.com/notscimmy/libinject
 -  https://github.com/BorjaMerino/tlsInjector (tls)
 -  https://github.com/BorjaMerino/Pazuzu (InjectFromMemory)
 -  https://github.com/strobejb/injdll
@@ -224,6 +229,10 @@
 
 -  https://github.com/1ce0ear/DllLoaderUnpacker
 
+## dll hijack
+
+-  https://github.com/zeffy/proxydll_template
+
 ## anti dll hijack
 
 -  https://github.com/fortiguard-lion/anti-dll-hijacking
@@ -281,6 +290,13 @@
 
 ## callback
 
+-  https://github.com/OSRDrivers/kmexts (callbacks)
+-  https://github.com/godaddy/procfilter (yara-integrated)
+-  https://github.com/McSimp/unfairplay
+-  https://github.com/jjdredd/procsentinel (verify the address space of a process)
+-  https://github.com/SanseoLab/simpleAVdriver
+-  https://github.com/SanseoLab/ProcLogger
+-  https://github.com/notscimmy/libelevate
 -  https://github.com/ZhuHuiBeiShaDiao/ObRegisterCallBacksByPass
 -  https://github.com/Sqdwr/RemoveCallBacks
 -  https://github.com/JKornev/hidden
@@ -739,6 +755,9 @@
 
 ## hips
 
+-  https://github.com/godaddy/procfilter
+-  https://github.com/BrunoMCBraga/Kernel-Whisperer
+-  https://malwaretips.com/threads/av-self-protection-process-c-c.66200/
 -  https://github.com/zareprj/JAV-AV-Engine
 -  https://github.com/0xdabbad00/OpenHIPS
 -  https://github.com/ExpLife/Norton_AntiVirus_SourceCode
@@ -961,6 +980,8 @@
 
 ## windbg plugin
 
+- https://github.com/OSRDrivers/penter
+- https://github.com/OSRDrivers/windbg-exts
 - https://github.com/panoramixor/GDIObjDump
 - https://codeday.me/bug/20171003/80216.html
 - http://virtualkd.sysprogs.org/
@@ -1350,6 +1371,8 @@
 
 ## miscellaneous
 
+-  https://github.com/piaoyunsoft/WebRedemption
+-  https://github.com/sudoconf/http_encode
 -  https://github.com/wjcsharp/wintools
 -  https://github.com/nmgwddj/HttpSourceViewer
 -  https://github.com/nmgwddj/nvapi-example (Digital Vibrance Controls)
@@ -1485,8 +1508,13 @@
 -  http://gosecure.net/2018/01/10/vmware-horizon-v4h-v4pa-desktop-agent-privilege-escalation-vulnerability-cve-2017-4946/
 -  http://www.msreverseengineering.com/blog/2018/1/23/a-walk-through-tutorial-with-code-on-statically-unpacking-the-finspy-vm-part-one-x86-deobfuscation
 
+## sec tools
+
+-  https://securityxploded.com
+
 ## web security research site
 
+-  http://malware-traffic-analysis.net
 -  https://malwaretips.com/
 -  https://www.sec-wiki.com
 -  https://www.anquanke.com/
