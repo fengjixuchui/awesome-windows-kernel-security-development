@@ -6,8 +6,16 @@
 
 :heart:
     
+## meltdown/spectre poc
+
+-  https://github.com/turbo/KPTI-PoC-Collection
+-  https://github.com/gkaindl/meltdown-poc
+-  https://github.com/feruxmax/meltdown
+-  https://github.com/Eugnis/spectre-attack
+    
 ## direct ui
 
+-  https://github.com/zhongyang219/MusicPlayer2
 -  https://github.com/nmgwddj/duilib_tutorial
 -  https://github.com/redrains/DuiLib_Redrain
 -  https://github.com/nmgwddj/InstallAssist
@@ -17,6 +25,14 @@
 
 ## windows system programming
 
+-  https://github.com/wanttobeno/SunDaySearchSignCode (fast search memory)
+-  https://github.com/zhongyang219/SimpleNotePad
+-  https://github.com/zhongyang219/TrafficMonitor
+-  https://github.com/codereba/data_scrambler (scrambler)
+-  https://github.com/3gstudent/Catch-specified-file-s-handle (enum file handle)
+-  https://github.com/intel/safestringlib
+-  https://github.com/eyusoft/asutlity
+-  https://github.com/ThomasThelen/BrowserLib
 -  https://github.com/OSRDrivers/dirchange
 -  https://github.com/OSRDrivers/deleteex (FileDispositionInfoEx)
 -  https://github.com/notscimmy/YASS (sig scanner)
@@ -43,6 +59,8 @@
 
 ## windows kernel driver with c++ runtime
 
+-  https://github.com/DragonQuestHero/Kernel-Force-Delete (force delete file)
+-  https://github.com/MeeSong/WDKExt
 -  https://github.com/HoShiMin/Kernel-Bridge
 -  https://github.com/wjcsharp/Common
 -  https://github.com/ExpLife/DriverSTL
@@ -74,6 +92,7 @@
 
 ## dkom
 
+-  https://github.com/waryas/EUPMAccess
 -  https://github.com/notscimmy/pplib
 -  https://blog.csdn.net/zhuhuibeishadiao/article/details/51136650 (get process full path name)
 -  https://bbs.pediy.com/thread-96427.htm (modify process image name)
@@ -116,7 +135,7 @@
 ## inline hook
 
 -  https://github.com/gfreivasc/VMTHook
--  https://github.com/zhipeng515/MemberFunctionHook （成员函数HOOK）
+-  https://github.com/zhipeng515/MemberFunctionHook （member function hook）
 -  https://github.com/windy32/win32-console-hook-lib
 -  https://github.com/M0rtale/Universal-WndProc-Hook
 -  https://github.com/a7031x/HookApi
@@ -143,6 +162,7 @@
 
 ## hook engine
 
+-  https://github.com/coltonon/RegHookEx (mid function)
 -  https://github.com/Synestraa/ArchUltimate.HookLib
 -  https://github.com/DominicTobias/detourxs
 -  https://github.com/Ilyatk/HookEngine
@@ -231,6 +251,8 @@
 
 ## dll hijack
 
+-  https://github.com/anhkgg/SuperDllHijack
+-  https://github.com/strivexjun/AheadLib-x86-x64
 -  https://github.com/zeffy/proxydll_template
 
 ## anti dll hijack
@@ -288,6 +310,10 @@
 
 -  https://github.com/Microwave89/rtsectiontest
 
+## KeUserModeCallBack
+
+-  https://github.com/Sqdwr/KeUserModeCallBack
+
 ## callback
 
 -  https://github.com/OSRDrivers/kmexts (callbacks)
@@ -307,6 +333,19 @@
 
 ## minifilter
 
+-  https://github.com/aviadyifrah/NAGuard
+-  https://github.com/y0n0622/DriversCode
+-  https://github.com/NotSurprised/MiniLogger
+-  https://github.com/hidd3ncod3s/hipara
+-  https://github.com/NtRaiseHardError/Providence
+-  https://github.com/maaaaz/mimicertz
+-  https://github.com/MUmesha/SecureFile
+-  https://github.com/anystayisjk/WordEncrypt
+-  https://github.com/anystayisjk/EncryptEngine
+-  https://github.com/yedushusheng/FileEncryption
+-  https://github.com/JokerMars/engine
+-  https://github.com/icedxu/Monitor
+-  https://github.com/smartinm/diskcryptor (disk encrypt)
 -  https://github.com/hedgeh/SEWindows (HIPS)
 -  https://github.com/474172261/DataProtector
 -  https://github.com/CynicalApe/Minifilter-CSHARP-ConsoleApp
@@ -326,6 +365,12 @@
 -  https://github.com/tandasat/Scavenger
 -  https://github.com/fishfly/X70FSD
 -  https://github.com/ExpLife/BKAV.Filter
+
+## anti Ransomware
+
+-  https://github.com/clavis0x/AntiRansomware
+-  https://github.com/DecryptoniteTeam/Decryptonite
+-  https://github.com/ofercas/ransomware_begone
 
 ## virtual disk
 
@@ -415,6 +460,7 @@
 
 ## wsk
 
+-  https://github.com/xalley/WskHttp
 -  https://github.com/reinhardvz/wsk
 -  https://github.com/akayn/kbMon
 -  https://github.com/02strich/audionet
@@ -423,6 +469,7 @@
 
 ## rootkits
 
+-  https://github.com/zerosum0x0/puppetstrings
 -  https://github.com/Synestraa/Highcall-Library (Highcall)
 -  https://github.com/Microwave89/drvtricks
 -  https://github.com/Psychotropos/xhunter1_privesc (XIGNCODE3)
@@ -508,6 +555,7 @@
 
 ## malware
 
+-  https://github.com/zerosum0x0/koadic (JScript RAT)
 -  https://github.com/malwaredllc/bamf
 -  https://github.com/malwaredllc/byob (py)
 -  https://github.com/fereh/tacekit
@@ -816,6 +864,7 @@
 
 ## fuzzer
 
+-  https://github.com/lcatro/How-to-Read-Source-and-Fuzzing (learn fuzzer)
 -  https://github.com/sogeti-esec-lab/RPCForge
 -  https://github.com/RootUp/BFuzz
 -  https://github.com/necst/crave
@@ -847,6 +896,7 @@
 
 ## game hack
 
+-  https://github.com/DragonQuestHero/PUBG-PAK-Hacker (BattlEye)
 -  https://github.com/GameHackingBook/GameHackingCode
 -  https://github.com/danielkrupinski/Osiris (Counter-Strike)
 -  https://github.com/moccajoghurt/MemWars
@@ -1172,16 +1222,13 @@
 
 ## ring3 nt api
 
+-  https://github.com/zodiacon/WindowsInternals/tree/master/MemLimit/ndk
 -  https://github.com/codereversing/wow64syscall
 -  https://github.com/processhacker/phnt
 -  https://github.com/ntdiff/ntdiff
 -  https://ntdiff.github.io
 -  https://github.com/ntdiff/headers
 -  https://github.com/Chuyu-Team/NativeLib
-
-## dll hijack
-
--  https://github.com/strivexjun/AheadLib-x86-x64
 
 ## winpcap
 
@@ -1371,6 +1418,8 @@
 
 ## miscellaneous
 
+-  https://github.com/waryas/UMPMLib
+-  https://github.com/MeeSong/Windows_OS_Internals_Curriculum_Resource_Kit-ACADEMIC
 -  https://github.com/piaoyunsoft/WebRedemption
 -  https://github.com/sudoconf/http_encode
 -  https://github.com/wjcsharp/wintools
