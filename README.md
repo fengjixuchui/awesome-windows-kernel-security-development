@@ -25,6 +25,14 @@
 
 ## windows system programming
 
+-  https://github.com/ax330d/Symex
+-  https://github.com/Biswa96/PDBDownloader
+-  https://github.com/Biswa96/TraceEvent
+-  https://github.com/hfiref0x/Misc
+-  https://github.com/SergioCalderonR/DelSvc
+-  https://github.com/wyrover/win-privileges-examples (DACL)
+-  https://github.com/nccgroup/WindowsDACLEnumProject (DACL)
+-  https://github.com/xqymain/ServerLocker
 -  https://github.com/wanttobeno/SunDaySearchSignCode (fast search memory)
 -  https://github.com/zhongyang219/SimpleNotePad
 -  https://github.com/zhongyang219/TrafficMonitor
@@ -49,6 +57,13 @@
 -  https://github.com/nmgwddj/DevCon
 -  https://github.com/nmgwddj/SystemProcessInfo
 -  https://github.com/nmgwddj/ServiceMgr
+
+## wsl/unix
+
+-  https://github.com/Biswa96/WSLInstall
+-  https://github.com/Biswa96/WslReverse
+-  https://github.com/Biswa96/XConPty
+-  https://github.com/mintty/wsltty.appx
 
 ## windows kernel driver
 
@@ -333,6 +348,7 @@
 
 ## minifilter
 
+-  https://github.com/cn505240/lightweight-reactive-snapshot-service
 -  https://github.com/aviadyifrah/NAGuard
 -  https://github.com/y0n0622/DriversCode
 -  https://github.com/NotSurprised/MiniLogger
@@ -792,6 +808,8 @@
 
 ## anti exploit
 
+-  https://github.com/shjalayeri/Pwnypot
+-  https://github.com/shjalayeri/MCEDP
 -  https://github.com/Empier/Anti-Exploit
 
 ## cve
@@ -942,6 +960,7 @@
 
 ## anti cheat
 
+-  https://github.com/Mouka-Yang/AntiCheatProtector
 -  https://github.com/mq1n/NoMercy
 -  https://github.com/SagaanTheEpic/Sagaan-AntiCheat-V2.0
 -  https://github.com/SagaanTheEpic/SAC-Sagaan-AntiCheat-Module-
@@ -1039,6 +1058,9 @@
 
 ## ida script & plugin
 
+-  https://github.com/ax330d/hrdev
+-  https://github.com/ax330d/ida_pdb_loader
+-  https://github.com/ax330d/functions-plus
 -  https://github.com/ecx86/classinformer-ida7
 -  https://github.com/IOActive/kmdf_re
 -  https://github.com/a1ext/labeless 
@@ -1507,6 +1529,7 @@
 
 ## blogs
 
+-  https://ktkitty.github.io/ (vul)
 -  https://secrary.com/RandomPosts
 -  http://www.mycode.net.cn/
 -  http://split-code.com
@@ -1681,6 +1704,20 @@
 -  http://www.lybbn.cn/data/datas.php?yw=76
 -  https://blog.huzhifeng.com/2017/07/16/PAC/
 -  https://github.com/manugarg/pacparser
+
+## js obfuscator/deobfuscator
+
+-  https://beautifier.io/
+-  https://tool.lu/js/
+-  https://www.52pojie.cn/thread-128803-1-1.html
+-  http://www.kahusecurity.com/2011/javascript-deobfuscation-tools-part-1/
+-  http://www.kahusecurity.com/2011/javascript-deobfucation-tools-part-2/
+-  http://deobfuscatejavascript.com/
+-  http://js.pnote.net/#/js
+
+## encryption/decryption tools
+
+-  https://www.devglan.com
 
 ## library
 
