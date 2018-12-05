@@ -25,6 +25,7 @@
 
 ## windows system programming
 
+-  https://github.com/PBfordev/wxAutoExcel
 -  https://github.com/ax330d/Symex
 -  https://github.com/Biswa96/PDBDownloader
 -  https://github.com/Biswa96/TraceEvent
@@ -194,15 +195,17 @@
 
 -  https://github.com/nickcano/ReloadLibrary
 
-## inject technique
+## inject technique (ring0)
 
+-  https://github.com/alex9191/Kernel-dll-injector (DllInjectFromKernel)
+-  https://github.com/wbenny/keinject (ApcInjectFromKernel)
+
+## inject technique (ring3)
 -  https://github.com/notscimmy/libinject
 -  https://github.com/BorjaMerino/tlsInjector (tls)
 -  https://github.com/BorjaMerino/Pazuzu (InjectFromMemory)
 -  https://github.com/strobejb/injdll
--  https://github.com/alex9191/Kernel-dll-injector (DllInjectFromKernel)
 -  https://github.com/strivexjun/DriverInjectDll (MapInjectDll)
--  https://github.com/wbenny/keinject (ApcInjectFromKernel)
 -  https://github.com/sud0loo/ProcessInjection
 -  https://github.com/apriorit/SvcHostDemo
 -  https://github.com/can1357/ThePerfectInjector
@@ -345,6 +348,10 @@
 -  https://github.com/swwwolf/cbtest
 -  https://github.com/nmgwddj/Learn-Windows-Drivers
 -  https://github.com/SamLarenN/CallbackDisabler
+
+## usb filter
+
+-  https://github.com/GoodstudyChina/USBlocker
 
 ## minifilter
 
@@ -882,6 +889,7 @@
 
 ## fuzzer
 
+-  https://github.com/CERTCC/dranzer (activex/com)
 -  https://github.com/lcatro/How-to-Read-Source-and-Fuzzing (learn fuzzer)
 -  https://github.com/sogeti-esec-lab/RPCForge
 -  https://github.com/RootUp/BFuzz
@@ -914,6 +922,8 @@
 
 ## game hack
 
+-  https://github.com/GoodstudyChina/CSGO-Cheat
+-  https://github.com/Nixer1337/Nixware-GMOD
 -  https://github.com/DragonQuestHero/PUBG-PAK-Hacker (BattlEye)
 -  https://github.com/GameHackingBook/GameHackingCode
 -  https://github.com/danielkrupinski/Osiris (Counter-Strike)
@@ -1405,6 +1415,7 @@
 
 ## 3rd party library
 
+-  https://github.com/asmjit/asmjit (jit)
 -  https://github.com/acl-dev/acl
 -  https://github.com/kingsamchen/WinAntHttp
 -  https://github.com/kingsamchen/KAdBlockEngine
@@ -1626,6 +1637,7 @@
 
 ## openssl
 
+-  https://github.com/square/certstrap (go)
 -  https://github.com/hioa-cs/IncludeOS/blob/fd92a5394b493b5b645b2123966d38c1576df250/src/net/https/openssl_server.cpp#L72
 -  https://github.com/robertblackwell/marvincpp
 -  https://github.com/equalitie/ouinet
@@ -1698,7 +1710,7 @@
 -  https://github.com/l3m0n/pentest_tools
 -  https://github.com/l3m0n/linux_information
 
-## pac
+## wpad/pac
 
 -  http://www.devnotes.in/2014/11/08/auto-proxy-settings-with-PAC.html
 -  http://www.lybbn.cn/data/datas.php?yw=76
