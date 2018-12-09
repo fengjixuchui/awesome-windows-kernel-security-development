@@ -25,6 +25,8 @@
 
 ## windows system programming
 
+-  https://github.com/liamkirton/sslcat (nc with ssl)
+-  https://github.com/Seineruo/RSA-Tool
 -  https://github.com/PBfordev/wxAutoExcel
 -  https://github.com/ax330d/Symex
 -  https://github.com/Biswa96/PDBDownloader
@@ -201,6 +203,8 @@
 -  https://github.com/wbenny/keinject (ApcInjectFromKernel)
 
 ## inject technique (ring3)
+
+-  https://github.com/UserExistsError/InjectDll  (InjectFromMemory)  
 -  https://github.com/notscimmy/libinject
 -  https://github.com/BorjaMerino/tlsInjector (tls)
 -  https://github.com/BorjaMerino/Pazuzu (InjectFromMemory)
@@ -259,6 +263,7 @@
 
 ## load Dll from memory
 
+-  https://github.com/UserExistsError/DllLoaderShellcode
 -  https://github.com/jnastarot/native_peloader
 -  https://github.com/fancycode/MemoryModule
 -  https://github.com/strivexjun/MemoryModulePP
@@ -272,6 +277,10 @@
 -  https://github.com/anhkgg/SuperDllHijack
 -  https://github.com/strivexjun/AheadLib-x86-x64
 -  https://github.com/zeffy/proxydll_template
+
+## com hijack
+
+-  https://github.com/enigma0x3/MessageBox
 
 ## anti dll hijack
 
@@ -320,7 +329,7 @@
 ## load driver from memory
 
 -  https://github.com/ZhuHuiBeiShaDiao/DriverMaper
--  https://github.com/9176324/KernelMemoryModule (Enable Exception)
+-  https://github.com/fadetrack/KernelMemoryModule (Enable Exception)
 -  https://github.com/not-wlan/driver-hijack
 -  https://github.com/Professor-plum/Reflective-Driver-Loader
 
@@ -492,6 +501,7 @@
 
 ## rootkits
 
+-  https://github.com/lantaoxu/HWIDFaker (hwid fake)
 -  https://github.com/zerosum0x0/puppetstrings
 -  https://github.com/Synestraa/Highcall-Library (Highcall)
 -  https://github.com/Microwave89/drvtricks
@@ -566,6 +576,7 @@
 
 ## anti debug
 
+-  https://github.com/AlicanAkyol/sems
 -  https://github.com/strivexjun/XAntiDebug
 -  https://github.com/marcusbotacin/Anti.Analysis
 -  https://github.com/LordNoteworthy/al-khaser
@@ -694,6 +705,9 @@
 
 ## windows exploits
 
+-  https://github.com/admintony/svnExploit
+-  https://github.com/smgorelik/Windows-RCE-exploits
+-  https://github.com/WindowsExploits/Exploits
 -  https://github.com/codewhitesec/UnmarshalPwn
 -  https://github.com/shellphish/how2heap
 -  https://github.com/externalist/exploit_playground
@@ -772,6 +786,7 @@
 
 ## LPE
 
+-  https://github.com/HackerPide/The-Division-Bypass (division bypass)
 -  https://github.com/khr0x40sh/WhiteListEvasion
 -  https://github.com/ohpe/juicy-potato
 -  https://github.com/nmulasmajic/syscall_exploit_CVE-2018-8897
@@ -792,6 +807,7 @@
 
 ## sandbox escape
 
+-  https://github.com/xairy/vmware-exploitation
 -  https://github.com/649/Chrome-Sandbox-Exploit
 -  https://github.com/SilverMoonSecurity/SandboxEvasion
 -  https://github.com/exAphex/SandboxEscape
@@ -821,6 +837,7 @@
 
 ## cve
 
+-  https://github.com/gravitational/cve-2018-1002105
 -  https://github.com/LyleMi/dom-vuln-db
 -  https://github.com/renorobert/virtualbox-cve-2018-2844
 -  https://github.com/LiuCan01/cve-list-pro
@@ -852,6 +869,7 @@
 
 ## vt
 
+-  https://github.com/ionescu007/SimpleVisor
 -  https://github.com/xdel/bluepillstudy
 -  https://github.com/SinaKarvandi/Hypervisor-From-Scratch
 -  https://github.com/wbenny/hvpp
@@ -889,6 +907,7 @@
 
 ## fuzzer
 
+-  https://github.com/bin2415/fuzzing_paper
 -  https://github.com/CERTCC/dranzer (activex/com)
 -  https://github.com/lcatro/How-to-Read-Source-and-Fuzzing (learn fuzzer)
 -  https://github.com/sogeti-esec-lab/RPCForge
@@ -1068,6 +1087,7 @@
 
 ## ida script & plugin
 
+-  https://github.com/nihilus/ida-pro-swf
 -  https://github.com/ax330d/hrdev
 -  https://github.com/ax330d/ida_pdb_loader
 -  https://github.com/ax330d/functions-plus
@@ -1288,6 +1308,7 @@
 
 ## http
 
+-  https://github.com/farawaaay/http2 (http/2)
 -  https://github.com/OlehKulykov/libnhr
 -  https://github.com/erickutcher/httpdownloader
 
@@ -1329,6 +1350,7 @@
 
 ## awesome
 
+-  https://github.com/REMath/literature_review
 -  https://github.com/phith0n/Mind-Map
 -  https://github.com/CHYbeta/Software-Security-Learning
 -  https://github.com/0x4D31/awesome-threat-detection
@@ -1451,6 +1473,11 @@
 
 ## miscellaneous
 
+-  https://github.com/gztss/SerialTool (serial debug tool)
+-  https://github.com/platomav/CPUMicrocodes
+-  https://github.com/DavexPro/PocHunter
+-  https://github.com/Microsoft/Windows-universal-samples
+-  https://github.com/ionescu007/wnfun
 -  https://github.com/waryas/UMPMLib
 -  https://github.com/MeeSong/Windows_OS_Internals_Curriculum_Resource_Kit-ACADEMIC
 -  https://github.com/piaoyunsoft/WebRedemption
@@ -1594,6 +1621,10 @@
 ## sec tools
 
 -  https://securityxploded.com
+
+## waf
+
+-  https://github.com/SpiderLabs/ModSecurity
 
 ## web security research site
 
