@@ -25,6 +25,9 @@
 
 ## windows system programming
 
+-  https://github.com/silverf0x/RpcView (rpc)
+-  https://github.com/ez8-co/unlocker ()
+-  https://github.com/nkga/self-updater (framework for secure self-update)
 -  https://github.com/liamkirton/sslcat (nc with ssl)
 -  https://github.com/Seineruo/RSA-Tool
 -  https://github.com/PBfordev/wxAutoExcel
@@ -204,6 +207,7 @@
 
 ## inject technique (ring3)
 
+-  https://github.com/ez8-co/yapi (Yet Another Process Injector)
 -  https://github.com/UserExistsError/InjectDll  (InjectFromMemory)  
 -  https://github.com/notscimmy/libinject
 -  https://github.com/BorjaMerino/tlsInjector (tls)
@@ -501,6 +505,7 @@
 
 ## rootkits
 
+-  https://github.com/nkga/cheat-driver (read/write memory of arbitrary processes)
 -  https://github.com/lantaoxu/HWIDFaker (hwid fake)
 -  https://github.com/zerosum0x0/puppetstrings
 -  https://github.com/Synestraa/Highcall-Library (Highcall)
@@ -941,6 +946,7 @@
 
 ## game hack
 
+-  https://github.com/fenix01/cheatengine-library  (cheatengine library wrapper)
 -  https://github.com/GoodstudyChina/CSGO-Cheat
 -  https://github.com/Nixer1337/Nixware-GMOD
 -  https://github.com/DragonQuestHero/PUBG-PAK-Hacker (BattlEye)
@@ -1274,6 +1280,7 @@
 
 ## ring3 nt api
 
+-  https://github.com/DissectMalware/WinNativeIO
 -  https://github.com/zodiacon/WindowsInternals/tree/master/MemLimit/ndk
 -  https://github.com/codereversing/wow64syscall
 -  https://github.com/processhacker/phnt
@@ -1346,10 +1353,16 @@
 
 ## json
 
+-  https://github.com/ez8-co/xpjson
 -  https://github.com/marcusbotacin/MyJSON
+
+## serialization
+
+-  https://github.com/ez8-co/es11n
 
 ## awesome
 
+-  https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
 -  https://github.com/REMath/literature_review
 -  https://github.com/phith0n/Mind-Map
 -  https://github.com/CHYbeta/Software-Security-Learning
@@ -1437,6 +1450,10 @@
 
 ## 3rd party library
 
+-  https://github.com/ez8-co/ezpp
+-  https://github.com/ez8-co/emock
+-  https://github.com/ez8-co/atomic
+-  https://github.com/ez8-co/linked_hash
 -  https://github.com/asmjit/asmjit (jit)
 -  https://github.com/acl-dev/acl
 -  https://github.com/kingsamchen/WinAntHttp
