@@ -25,6 +25,7 @@
 
 ## windows system programming
 
+-  https://github.com/717021/PCMgr (task manager)
 -  https://github.com/silverf0x/RpcView (rpc)
 -  https://github.com/ez8-co/unlocker ()
 -  https://github.com/nkga/self-updater (framework for secure self-update)
@@ -278,6 +279,7 @@
 
 ## dll hijack
 
+-  https://github.com/Cybereason/siofra (identify and exploit)
 -  https://github.com/anhkgg/SuperDllHijack
 -  https://github.com/strivexjun/AheadLib-x86-x64
 -  https://github.com/zeffy/proxydll_template
@@ -1490,6 +1492,7 @@
 
 ## miscellaneous
 
+-  https://www.unknowncheats.me/forum/c-and-c-/179852-ring0-random-string-generator-kernel-driver.html
 -  https://github.com/gztss/SerialTool (serial debug tool)
 -  https://github.com/platomav/CPUMicrocodes
 -  https://github.com/DavexPro/PocHunter
@@ -1584,6 +1587,7 @@
 
 ## blogs
 
+-  https://blog.csdn.net/liwen930723
 -  https://ktkitty.github.io/ (vul)
 -  https://secrary.com/RandomPosts
 -  http://www.mycode.net.cn/
