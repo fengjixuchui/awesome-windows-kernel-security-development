@@ -25,6 +25,7 @@
 
 ## windows system programming
 
+-  https://github.com/hzqst/FuckCertVerifyTimeValidity
 -  https://github.com/717021/PCMgr (task manager)
 -  https://github.com/silverf0x/RpcView (rpc)
 -  https://github.com/ez8-co/unlocker ()
@@ -1333,6 +1334,7 @@
 
 ## mitm
 
+-  https://github.com/zliu-fd/WinDivertProxy
 -  https://github.com/sipt/shuttle (GO)
 -  https://github.com/conorpp/MiTM-HTTP-Proxy
 -  https://github.com/moxie0/sslsniff
