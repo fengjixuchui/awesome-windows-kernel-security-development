@@ -54,6 +54,10 @@
 
 -  https://github.com/ThirteenAG/d3d9-wrapper
 
+## lua
+
+-  https://github.com/vinniefalco/LuaBridge
+
 ## c++ & js
 
 -  https://github.com/wanttobeno/Study_mujs
@@ -87,6 +91,7 @@
 
 ## windows system programming
 
+-  https://github.com/libyal/libevtx
 -  https://github.com/wanttobeno/Screenshot
 -  https://github.com/scarsty/tinypot
 -  https://github.com/jonasblunck/DynHook
@@ -335,11 +340,13 @@
 
 ## inject technique (ring0)
 
+-  https://github.com/haidragon/NewInjectDrv
 -  https://github.com/alex9191/Kernel-dll-injector (DllInjectFromKernel)
 -  https://github.com/wbenny/keinject (ApcInjectFromKernel)
 
 ## inject technique (ring3)
 
+-  https://github.com/realoriginal/reflective-rewrite (InjectFromMemory)
 -  https://github.com/blaquee/APCHook  (apc inject)
 -  https://github.com/secrary/InjectProc
 -  https://github.com/ez8-co/yapi (Yet Another Process Injector)
@@ -504,6 +511,10 @@
 ## usb filter
 
 -  https://github.com/GoodstudyChina/USBlocker
+
+## sfilter
+
+-  https://github.com/haidragon/sfilter
 
 ## minifilter
 
@@ -1003,6 +1014,7 @@
 
 ## windows hypervisor 
 
+-  https://github.com/redogwu/hyper-v
 -  https://github.com/Ekrte/hithithit
 -  https://github.com/Microsoft/FirewallEventMonitor
 -  https://github.com/ionescu007/Simpleator
@@ -1014,6 +1026,7 @@
 
 ## vt
 
+-  https://github.com/haidragon/newbluepill
 -  https://github.com/Gbps/gbhv
 -  https://github.com/ionescu007/SimpleVisor
 -  https://github.com/xdel/bluepillstudy
@@ -1053,6 +1066,8 @@
 
 ## fuzzer
 
+-  https://github.com/wnagzihxa1n/BrowserSecurity
+-  https://github.com/Dongdongshe/neuzz 
 -  https://github.com/nickjackson2011/study-TTF_format
 -  https://github.com/oxagast/ansvif
 -  https://github.com/hfiref0x/ROCALL
@@ -1191,6 +1206,7 @@
 
 ## deobfuscation
 
+-  https://github.com/F8LEFT/DecLLVM
 -  https://github.com/mmyydd/relative-pattern
 -  https://github.com/SCUBSRGroup/OLLVM_Deobfuscation
 
@@ -1234,6 +1250,7 @@
 
 ## windbg plugin
 
+- https://github.com/jthuraisamy/DIRT
 - https://github.com/OSRDrivers/penter
 - https://github.com/OSRDrivers/windbg-exts
 - https://github.com/panoramixor/GDIObjDump
@@ -1641,6 +1658,7 @@
 
 ## miscellaneous
 
+-  https://github.com/TalAloni/SMBLibrary
 -  https://www.unknowncheats.me/forum/c-and-c-/179852-ring0-random-string-generator-kernel-driver.html
 -  https://github.com/gztss/SerialTool (serial debug tool)
 -  https://github.com/platomav/CPUMicrocodes
@@ -1810,8 +1828,12 @@
 
 ## development documents
 
-- http://devdocs.io/
-- https://zealdocs.org/
+-  http://devdocs.io/
+-  https://zealdocs.org/
+
+## browser automated test
+
+-  https://github.com/florentbr/SeleniumBasic
 
 ## docker
 
