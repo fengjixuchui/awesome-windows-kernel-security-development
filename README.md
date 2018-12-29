@@ -60,6 +60,7 @@
 
 ## c++ & js
 
+-  https://github.com/ExpLife0011/WebBrowser
 -  https://github.com/wanttobeno/Study_mujs
 
 ##  gdi/gdi+
@@ -91,6 +92,9 @@
 
 ## windows system programming
 
+-  https://github.com/CasualX/LibEx
+-  https://github.com/syhyz1990/baiduyun
+-  https://github.com/WalkingCat/SymDiff
 -  https://github.com/libyal/libevtx
 -  https://github.com/wanttobeno/Screenshot
 -  https://github.com/scarsty/tinypot
@@ -204,6 +208,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/coltonon/MoaRpm
 -  https://github.com/wanttobeno/ProcessManager_Ring0
 -  https://github.com/wanttobeno/Win_Driver_Mouse_And_Key
 -  https://github.com/wanttobeno/Win64DriverStudy_Src
@@ -318,6 +323,8 @@
 
 ## hook engine
 
+-  https://github.com/aschrein/apiparse
+-  https://github.com/zyantific/zyan-hook-engine
 -  https://github.com/jonasblunck/DP (com hook)
 -  https://github.com/jonasblunck/DynHook
 -  https://github.com/wanttobeno/ADE32_InlineHook
@@ -732,6 +739,7 @@
 
 ## anti debug
 
+-  https://github.com/atlantis2013/Evasion-Tools
 -  https://github.com/AlicanAkyol/sems
 -  https://github.com/strivexjun/XAntiDebug
 -  https://github.com/marcusbotacin/Anti.Analysis
@@ -1206,6 +1214,7 @@
 
 ## deobfuscation
 
+-  https://github.com/1111joe1111/tuts (vmprotect 3+)
 -  https://github.com/F8LEFT/DecLLVM
 -  https://github.com/mmyydd/relative-pattern
 -  https://github.com/SCUBSRGroup/OLLVM_Deobfuscation
@@ -1250,6 +1259,7 @@
 
 ## windbg plugin
 
+- https://github.com/REhints/WinDbg
 - https://github.com/jthuraisamy/DIRT
 - https://github.com/OSRDrivers/penter
 - https://github.com/OSRDrivers/windbg-exts
@@ -1530,6 +1540,7 @@
 
 ## awesome
 
+-  https://github.com/danielmiessler/SecLists
 -  https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
 -  https://github.com/REMath/literature_review
 -  https://github.com/phith0n/Mind-Map
@@ -1949,6 +1960,10 @@
 -  http://www.kahusecurity.com/2011/javascript-deobfucation-tools-part-2/
 -  http://deobfuscatejavascript.com/
 -  http://js.pnote.net/#/js
+
+## decompiler
+
+-  https://github.com/wargio/r2dec-js (asm to c)
 
 ## encryption/decryption tools
 
