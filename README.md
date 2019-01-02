@@ -6,6 +6,10 @@
 
 :heart:
     
+## pe file format
+
+-  https://github.com/corkami/pics
+    
 ## meltdown/spectre poc
 
 -  https://github.com/turbo/KPTI-PoC-Collection
@@ -40,6 +44,10 @@
 -  https://github.com/netease-im/NIM_PC_UIKit
 -  https://github.com/nmgwddj/Optimizer
 -  https://github.com/nmgwddj/BarPCMaster (netbar)
+
+## chrome
+
+-  https://github.com/shuax/GreenChrome
 
 ## cef
 
@@ -92,6 +100,8 @@
 
 ## windows system programming
 
+-  https://github.com/GameTechDev/PresentMon
+-  https://github.com/hfiref0x/BSODScreen
 -  https://github.com/CasualX/LibEx
 -  https://github.com/syhyz1990/baiduyun
 -  https://github.com/WalkingCat/SymDiff
@@ -208,6 +218,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/tomLadder/WinLib
 -  https://github.com/coltonon/MoaRpm
 -  https://github.com/wanttobeno/ProcessManager_Ring0
 -  https://github.com/wanttobeno/Win_Driver_Mouse_And_Key
@@ -353,6 +364,7 @@
 
 ## inject technique (ring3)
 
+-  https://github.com/Cybellum/DoubleAgent
 -  https://github.com/realoriginal/reflective-rewrite (InjectFromMemory)
 -  https://github.com/blaquee/APCHook  (apc inject)
 -  https://github.com/secrary/InjectProc
@@ -1074,6 +1086,7 @@
 
 ## fuzzer
 
+-  https://github.com/googleprojectzero/p0tools
 -  https://github.com/wnagzihxa1n/BrowserSecurity
 -  https://github.com/Dongdongshe/neuzz 
 -  https://github.com/nickjackson2011/study-TTF_format
@@ -1933,6 +1946,7 @@
 
 ## ebook
 
+-  https://github.com/xuanhun/PythonHackingBook1
 -  https://github.com/xapax/security
 -  https://github.com/chryzsh/DarthSidious (AD Domain hack)
 -  https://github.com/chryzsh/practical-hacking
