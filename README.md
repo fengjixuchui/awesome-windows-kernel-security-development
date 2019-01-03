@@ -98,8 +98,44 @@
 
 -  https://github.com/wanttobeno/Dongle
 
+## Shell Extension for Windows Explorer
+
+-  https://github.com/abhimanyusirohi/ThumbFish (nice demo)
+-  https://github.com/matssigge/JASE
+-  https://github.com/Oeffner/MtzExtInfoTip
+-  https://github.com/danielgrigg/ContextMenuDemo
+-  https://github.com/monolithpl/stexbar
+-  https://github.com/CaSchmidt/csMenu
+-  https://github.com/blndev/ExplorerUtilitys
+-  https://github.com/pke/Windows-Explorer-OSGi-Shell-Extensions
+-  https://github.com/Anton-V-K/MultiThumbExtension
+-  https://github.com/0ffffffffh/ffmpegShellExtension
+-  https://github.com/Ralph-Lee/WinShellExt
+-  https://github.com/slivermeteor/LockKeys
+-  https://github.com/alexandermenze/ShellExtensionInfoTip
+-  https://github.com/jbrandwood/EditWith
+-  https://github.com/calzakk/CyoHash
+-  https://github.com/asa75asa/ImageResizer
+-  https://github.com/tillig/JunctionShellExtensions
+-  https://github.com/keybase/KBShellExt
+-  https://github.com/T800G/StatusBar7
+-  https://github.com/vladm3/ShellExtension
+-  https://github.com/sop/cygextreg
+-  https://github.com/AndreasVerhoeven/HTMLPreviewShellExtension
+-  https://github.com/alvinhochun/KritaShellExtension
+-  https://github.com/AUTOMATIC1111/3ds-shell 
+-  https://github.com/google/google-drive-shell-extension 
+-  https://github.com/TortoiseGit/TortoiseGit
+-  https://github.com/sanje2v/MantaPropertyExtension 
+-  https://github.com/phwitti/cmdhere
+
 ## windows system programming
 
+-  https://github.com/ruusty/NAntMenu
+-  https://github.com/chrdavis/PIFShellExtensions
+-  https://github.com/codepongo/zshellext
+-  https://github.com/lz77win/lz77win_sources
+-  https://github.com/Microsoft/perfview
 -  https://github.com/GameTechDev/PresentMon
 -  https://github.com/hfiref0x/BSODScreen
 -  https://github.com/CasualX/LibEx
@@ -249,6 +285,7 @@
 
 ## blackbone
 
+-  https://github.com/hzqst/unicorn_pe
 -  https://github.com/nofvcks/AimKit-Pasted-Driver
 -  https://github.com/alexpsp00/x-elite-loader
 -  https://github.com/DarthTon/Xenos
@@ -798,6 +835,7 @@
 
 ## malware analysis
 
+-  https://github.com/tdevuser/MalwFinder
 -  https://github.com/MalwareCantFly/Vba2Graph
 -  https://github.com/unexpectedBy/Automated-Malware-Analysis-List
 -  https://github.com/wchen-r7/amsiscanner (Microsoft's Antimalware Scan Interface)
@@ -962,6 +1000,7 @@
 
 ## LPE
 
+-  https://github.com/AlessandroZ/BeRoot
 -  https://github.com/HackerPide/The-Division-Bypass (division bypass)
 -  https://github.com/khr0x40sh/WhiteListEvasion
 -  https://github.com/ohpe/juicy-potato
@@ -1034,6 +1073,7 @@
 
 ## windows hypervisor 
 
+-  https://github.com/gamozolabs/falkervisor_grilled_cheese
 -  https://github.com/redogwu/hyper-v
 -  https://github.com/Ekrte/hithithit
 -  https://github.com/Microsoft/FirewallEventMonitor
@@ -1046,6 +1086,7 @@
 
 ## vt
 
+-  https://github.com/gamozolabs/applepie
 -  https://github.com/haidragon/newbluepill
 -  https://github.com/Gbps/gbhv
 -  https://github.com/ionescu007/SimpleVisor
@@ -1086,6 +1127,7 @@
 
 ## fuzzer
 
+-  https://github.com/googleprojectzero/bochspwn-reloaded
 -  https://github.com/googleprojectzero/p0tools
 -  https://github.com/wnagzihxa1n/BrowserSecurity
 -  https://github.com/Dongdongshe/neuzz 
@@ -1462,6 +1504,8 @@
 
 ## hash dump
 
+-  https://github.com/AlessandroZ/LaZagneForensic
+-  https://github.com/AlessandroZ/LaZagne (browser credentials recovery)
 -  https://github.com/gentilkiwi/mimikatz
 
 ##  auxiliary lib
