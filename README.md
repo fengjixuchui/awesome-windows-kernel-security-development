@@ -131,6 +131,12 @@
 
 ## windows system programming
 
+-  https://github.com/wyrover/CodeLib
+-  https://github.com/Rprop/CppDLL (dll to .h and lib)
+-  https://github.com/seledka/syslib
+-  https://github.com/leecher1337/regremap
+-  https://github.com/webees/ADkiller
+-  https://github.com/skysilent/coroutine_study (fiber)
 -  https://github.com/ruusty/NAntMenu
 -  https://github.com/chrdavis/PIFShellExtensions
 -  https://github.com/codepongo/zshellext
@@ -401,6 +407,8 @@
 
 ## inject technique (ring3)
 
+-  https://github.com/Shaxzy/VibranceInjector
+-  https://github.com/xiaobo93/UnModule_shellcode_Inject
 -  https://github.com/Cybellum/DoubleAgent
 -  https://github.com/realoriginal/reflective-rewrite (InjectFromMemory)
 -  https://github.com/blaquee/APCHook  (apc inject)
@@ -452,6 +460,21 @@
 -  https://github.com/OlSut/Kinject-x64
 -  https://github.com/stormshield/Beholder-Win32
 -  https://github.com/yifiHeaven/MagicWall
+
+## WoW64 <-> x64
+
+-  https://github.com/wolk-1024/WoW64Utils
+-  https://github.com/dadas190/Heavens-Gate-2.0
+-  https://github.com/leecher1337/ntvdmx64
+-  https://github.com/hyzhangzhy/WindowX
+-  https://github.com/georgenicolaou/HeavenInjector
+-  https://github.com/georgenicolaou/W64oWoW64
+-  https://github.com/Rprop/X86Call
+-  https://github.com/rwfpl/rewolf-wow64ext
+-  https://github.com/ovidiuvio/libntdbg
+-  https://github.com/haidragon/x86tox64
+-  https://github.com/3gstudent/CreateRemoteThread
+-  https://github.com/RaMMicHaeL/Textify
 
 ## anti autorun
 
@@ -835,6 +858,7 @@
 
 ## malware analysis
 
+-  https://github.com/ctxis/capemon (Config And Payload Extraction)
 -  https://github.com/tdevuser/MalwFinder
 -  https://github.com/MalwareCantFly/Vba2Graph
 -  https://github.com/unexpectedBy/Automated-Malware-Analysis-List
@@ -1254,6 +1278,12 @@
 -  https://github.com/BromiumLabs/PackerAttacker
 -  http://n10info.blogspot.com/2018/03/xvolkolak-010.html
 
+## emulate code execution
+
+-  https://github.com/hzqst/unicorn_pe
+-  https://github.com/inaz2/Unico
+-  https://github.com/Coldzer0/Cmulator
+
 ## pin
 
 -  https://github.com/BreakingMalware/Selfie
@@ -1315,6 +1345,8 @@
 
 ## windbg plugin
 
+- https://github.com/hugsy/windbg_js_scripts (js)
+- https://github.com/0vercl0k/windbg-scripts (js)
 - https://github.com/REhints/WinDbg
 - https://github.com/jthuraisamy/DIRT
 - https://github.com/OSRDrivers/penter
@@ -1727,6 +1759,7 @@
 
 ## miscellaneous
 
+-  https://github.com/heckerli/netshield
 -  https://github.com/TalAloni/SMBLibrary
 -  https://www.unknowncheats.me/forum/c-and-c-/179852-ring0-random-string-generator-kernel-driver.html
 -  https://github.com/gztss/SerialTool (serial debug tool)
