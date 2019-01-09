@@ -131,6 +131,8 @@
 
 ## windows system programming
 
+-  https://github.com/bailey27/cppcryptfs  ( gocryptfs encrypted overlay filesystem)
+-  https://github.com/etsubu/MacroRecorder (recording keyboard and mouse macros)
 -  https://github.com/wyrover/CodeLib
 -  https://github.com/Rprop/CppDLL (dll to .h and lib)
 -  https://github.com/seledka/syslib
@@ -1387,6 +1389,7 @@
 
 ## idapython
 
+-  https://github.com/howmp/COMFinder
 -  https://github.com/maddiestone/IDAPythonEmbeddedToolkit
 -  https://github.com/zyantific/IDASkins
 -  https://github.com/ynvb/DIE
@@ -1668,6 +1671,7 @@
 
 ## vm
 
+-  https://github.com/etsubu/NanoVM (x64)
 -  https://github.com/tboox/vm86
 
 ## spy++
