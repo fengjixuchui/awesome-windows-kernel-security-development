@@ -685,6 +685,7 @@
 
 ## wfp
 
+-  https://github.com/dfct/PortMapper (Port Map)
 -  https://github.com/TinkerBravo/WFPKit
 -  https://github.com/Arno0x/DivertTCPconn
 -  https://github.com/mullvad/libwfp
@@ -860,6 +861,7 @@
 
 ## malware analysis
 
+-  https://github.com/Formyown/Alesense-Antivirus (nice demo)
 -  https://github.com/ctxis/capemon (Config And Payload Extraction)
 -  https://github.com/tdevuser/MalwFinder
 -  https://github.com/MalwareCantFly/Vba2Graph
