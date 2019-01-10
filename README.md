@@ -1753,6 +1753,7 @@
 
 ## rpc
 
+-  https://github.com/houjingyi233/ALPC-fuzz-study
 -  https://github.com/muxq/hellorpc
 
 ## adblock
@@ -2064,6 +2065,10 @@
 ## encryption/decryption tools
 
 -  https://www.devglan.com
+
+## english
+
+-  https://github.com/yujiangshui/An-English-Guide-for-Programmers
 
 ## library
 
