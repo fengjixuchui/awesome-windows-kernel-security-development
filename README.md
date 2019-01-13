@@ -133,6 +133,8 @@
 
 ## windows system programming
 
+-  https://github.com/Zero3K/connectfusion (download manager)
+-  https://github.com/Zero3K/ERAM (RAM Disk)
 -  https://github.com/bailey27/cppcryptfs  ( gocryptfs encrypted overlay filesystem)
 -  https://github.com/etsubu/MacroRecorder (recording keyboard and mouse macros)
 -  https://github.com/wyrover/CodeLib
@@ -1117,6 +1119,7 @@
 
 ## vt
 
+-  https://github.com/tklengyel/drakvuf
 -  https://github.com/gamozolabs/applepie
 -  https://github.com/haidragon/newbluepill
 -  https://github.com/Gbps/gbhv
@@ -1684,6 +1687,8 @@
 
 ## pe tool
 
+-  https://www.pelock.com/products/string-encrypt
+-  https://www.pelock.com/products/obfuscator
 -  https://github.com/hasherezade/hollows_hunter  (scan hook)
 -  https://github.com/hasherezade/pe-sieve
 -  https://github.com/hasherezade/bearparser
