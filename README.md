@@ -133,6 +133,8 @@
 
 ## windows system programming
 
+-  https://github.com/kingsunc/MiniDump
+-  https://github.com/amdf/reparselib
 -  https://github.com/Zero3K/connectfusion (download manager)
 -  https://github.com/Zero3K/ERAM (RAM Disk)
 -  https://github.com/bailey27/cppcryptfs  ( gocryptfs encrypted overlay filesystem)
@@ -1119,6 +1121,7 @@
 
 ## vt
 
+-  https://github.com/changeofpace/VivienneVMM (stealthy debugging framework)
 -  https://github.com/tklengyel/drakvuf
 -  https://github.com/gamozolabs/applepie
 -  https://github.com/haidragon/newbluepill
@@ -1161,6 +1164,7 @@
 
 ## fuzzer
 
+-  https://github.com/payatu/EMFFuzzer
 -  https://github.com/googleprojectzero/bochspwn-reloaded
 -  https://github.com/googleprojectzero/p0tools
 -  https://github.com/wnagzihxa1n/BrowserSecurity
@@ -1354,6 +1358,9 @@
 
 ## windbg plugin
 
+- http://www.andreybazhan.com/debugging.html
+- https://github.com/vallejocc/Reverse-Engineering-Arsenal/ (anti-anti_debugging winDbg scripts)
+- https://github.com/vagnerpilar/windbgtree (nice plugin)
 - https://github.com/hugsy/windbg_js_scripts (js)
 - https://github.com/0vercl0k/windbg-scripts (js)
 - https://github.com/REhints/WinDbg
@@ -1870,6 +1877,10 @@
 
 ## blogs
 
+-  http://kdext.com/links.html
+-  http://www.reconstructer.org/papers/Hunting%20rootkits%20with%20Windbg.pdf
+-  https://www.slideshare.net/MSbluehat/bluehat-v18-memory-resident-implants-code-injection-is-alive-and-well
+-  https://www.sekoia.fr/blog
 -  https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/single-binary-opt-in-pool-nx-optin (VS WDK Config)
 -  https://blog.csdn.net/qq_18218335/article/details/77480475 (VS WDK Config)
 -  https://docs.microsoft.com/zh-cn/previous-versions//jj572863(v=vs.85) (VS WDK Config)
