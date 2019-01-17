@@ -133,6 +133,7 @@
 
 ## windows system programming
 
+-  https://github.com/zhaolong/libparser (static lib parse)
 -  https://github.com/WildByDesign/Privexec
 -  https://github.com/KangLin/RabbitIm
 -  https://github.com/kingsunc/MiniDump
@@ -887,6 +888,7 @@
 
 ## arktools
 
+-  https://github.com/ZhuHuiBeiShaDiao/KernelHooksDetection_x64
 -  https://github.com/AxtMueller/Windows-Kernel-Explorer
 -  https://github.com/hedgeh/SEWindows (doc:hedgeh.github.io/startup.html)
 -  https://github.com/glmcdona/MALM
@@ -1566,6 +1568,7 @@
 
 ## ring3 nt api
 
+-  https://www.vergiliusproject.com/kernels
 -  https://github.com/DissectMalware/WinNativeIO
 -  https://github.com/zodiacon/WindowsInternals/tree/master/MemLimit/ndk
 -  https://github.com/codereversing/wow64syscall
