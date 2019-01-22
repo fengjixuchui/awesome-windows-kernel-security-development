@@ -133,6 +133,8 @@
 
 ## windows system programming
 
+-  https://github.com/thomaslaurenson/LiveDiff (live diff)
+-  https://github.com/thomaslaurenson/CellXML-offreg (hive file parse)
 -  https://github.com/zhaolong/libparser (static lib parse)
 -  https://github.com/WildByDesign/Privexec
 -  https://github.com/KangLin/RabbitIm
@@ -1169,6 +1171,7 @@
 
 ## fuzzer
 
+-  https://github.com/GoSSIP-SJTU/TripleDoggy
 -  https://github.com/payatu/EMFFuzzer
 -  https://github.com/googleprojectzero/bochspwn-reloaded
 -  https://github.com/googleprojectzero/p0tools
@@ -1345,6 +1348,10 @@
 -  https://github.com/ExpLife/binarydiffer
 -  https://github.com/ExpLife/patchdiff2_ida6
 -  https://github.com/ExpLife/patchdiff2
+
+## debugger
+
+-  https://github.com/marakew/syser
 
 ## x64dbg plugin
 
