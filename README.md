@@ -254,6 +254,7 @@
 
 ## wsl/unix
 
+-  https://github.com/Mermeze/wslam (wsl anti malware)
 -  https://github.com/Biswa96/WSLInstall
 -  https://github.com/Biswa96/WslReverse
 -  https://github.com/Biswa96/XConPty
@@ -610,6 +611,7 @@
 
 ## minifilter
 
+-  https://github.com/Mermeze/System-Monitor 
 -  https://github.com/cn505240/lightweight-reactive-snapshot-service
 -  https://github.com/aviadyifrah/NAGuard
 -  https://github.com/y0n0622/DriversCode
