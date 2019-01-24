@@ -75,6 +75,7 @@
 
 ##  gdi/gdi+
 
+-  http://www.mctrl.org/ (win32 control lib)
 -  https://github.com/wanttobeno/AlphaEditor
 -  https://github.com/wanttobeno/FastZoomDemo (zoom)
 -  https://github.com/wanttobeno/GdiPlusTextEffect
@@ -133,6 +134,10 @@
 
 ## windows system programming
 
+-  https://github.com/mity/windrawlib (GDI+ Helper)
+-  https://github.com/henrypp/errorlookup
+-  https://github.com/longmode/authzsec-mod-um (AppContainer and ACL)
+-  https://github.com/henrypp/memreduct
 -  https://github.com/thomaslaurenson/LiveDiff (live diff)
 -  https://github.com/thomaslaurenson/CellXML-offreg (hive file parse)
 -  https://github.com/zhaolong/libparser (static lib parse)
@@ -630,7 +635,7 @@
 -  https://github.com/474172261/DataProtector
 -  https://github.com/CynicalApe/Minifilter-CSHARP-ConsoleApp
 -  https://github.com/NtRaiseHardError/Anti-Delete (File anti delete)
--  https://github.com/Randomize163/FSDefender
+-  https://github.com/Randomize163/FSDefender 
 -  https://github.com/ETEFS/ETEFS_Mini
 -  https://github.com/gfleury/ProtegeDados_ProjetoFinal
 -  https://github.com/denisvieriu/Portable-Executable-Minifilter-Driver
@@ -698,6 +703,7 @@
 
 ## wfp
 
+-  https://github.com/henrypp/simplewall 
 -  https://github.com/dfct/PortMapper (Port Map)
 -  https://github.com/TinkerBravo/WFPKit
 -  https://github.com/Arno0x/DivertTCPconn
@@ -751,6 +757,7 @@
 
 ## rootkits
 
+-  https://github.com/longmode/UTKModule
 -  https://github.com/nkga/cheat-driver (read/write memory of arbitrary processes)
 -  https://github.com/lantaoxu/HWIDFaker (hwid fake)
 -  https://github.com/zerosum0x0/puppetstrings
@@ -1095,6 +1102,7 @@
 
 ## cve
 
+-  https://github.com/Ridter/Exchange2domain
 -  https://github.com/ze0r/cve-2018-8453-exp
 -  https://github.com/gravitational/cve-2018-1002105
 -  https://github.com/LyleMi/dom-vuln-db
@@ -1293,6 +1301,7 @@
 
 ## pe protector
 
+-  https://github.com/devilogic/xvirus
 -  https://github.com/nickcano/RelocBonus 
 -  https://github.com/jnastarot/furikuri
 
