@@ -616,6 +616,7 @@
 
 ## minifilter
 
+-  https://github.com/vitalikpi/FileWall
 -  https://github.com/Mermeze/System-Monitor 
 -  https://github.com/cn505240/lightweight-reactive-snapshot-service
 -  https://github.com/aviadyifrah/NAGuard
@@ -1599,6 +1600,9 @@
 
 ## winpcap
 
+-  https://github.com/abapat/DNSPoison
+-  http://www.ferrisxu.com/WinPcap/html/index.html
+-  https://github.com/wqqhit/DNSHijack
 -  https://github.com/klemenb/fiddly
 -  http://blog.csdn.net/Ni9htMar3/article/details/54612394
 -  https://www.cnblogs.com/xcj26/articles/6073411.html
