@@ -1140,6 +1140,7 @@
 
 ## vt
 
+-  https://github.com/udosteinberg/NOVA
 -  https://github.com/changeofpace/VivienneVMM (stealthy debugging framework)
 -  https://github.com/tklengyel/drakvuf
 -  https://github.com/gamozolabs/applepie
@@ -1601,6 +1602,7 @@
 
 ## winpcap
 
+-  http://libtins.github.io/tutorial/
 -  https://github.com/abapat/DNSPoison
 -  http://www.ferrisxu.com/WinPcap/html/index.html
 -  https://github.com/wqqhit/DNSHijack
