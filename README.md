@@ -135,6 +135,7 @@
 
 ## windows system programming
 
+-  https://github.com/troldal/OpenXLSX (.xlsx format)
 -  https://github.com/mity/windrawlib (GDI+ Helper)
 -  https://github.com/henrypp/errorlookup
 -  https://github.com/longmode/authzsec-mod-um (AppContainer and ACL)
@@ -903,6 +904,7 @@
 
 ## arktools
 
+-  https://github.com/basketwill/Sysmon_reverse
 -  https://github.com/ZhuHuiBeiShaDiao/KernelHooksDetection_x64
 -  https://github.com/AxtMueller/Windows-Kernel-Explorer
 -  https://github.com/hedgeh/SEWindows (doc:hedgeh.github.io/startup.html)
@@ -1337,6 +1339,7 @@
 
 ## deobfuscation
 
+-  https://github.com/JonathanSalwan/Tigress_protection
 -  https://github.com/1111joe1111/tuts (vmprotect 3+)
 -  https://github.com/F8LEFT/DecLLVM
 -  https://github.com/mmyydd/relative-pattern
@@ -1592,6 +1595,7 @@
 
 ## ring3 nt api
 
+-  https://github.com/icestudent/ontl
 -  https://www.vergiliusproject.com/kernels
 -  https://github.com/DissectMalware/WinNativeIO
 -  https://github.com/zodiacon/WindowsInternals/tree/master/MemLimit/ndk
@@ -1680,6 +1684,7 @@
 
 ## awesome
 
+-  https://github.com/Ridter/Intranet_Penetration_Tips
 -  https://github.com/danielmiessler/SecLists
 -  https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
 -  https://github.com/REMath/literature_review
