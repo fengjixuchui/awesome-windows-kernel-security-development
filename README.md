@@ -3,9 +3,7 @@
 ![Gitee license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 # `awesome-windows-kernel-security-development`
-
-:heart:
-    
+ 
 ## pe file format
 
 -  https://github.com/corkami/pics
@@ -400,6 +398,7 @@
 
 ## hook engine
 
+-  https://github.com/Rebzzel/kiero (d3d hook)
 -  https://github.com/aschrein/apiparse
 -  https://github.com/zyantific/zyan-hook-engine
 -  https://github.com/jonasblunck/DP (com hook)
@@ -755,6 +754,7 @@
 
 ## wsk
 
+-  https://github.com/wbenny/KSOCKET
 -  https://github.com/xalley/WskHttp
 -  https://github.com/reinhardvz/wsk
 -  https://github.com/akayn/kbMon
@@ -1821,6 +1821,7 @@
 
 ## miscellaneous
 
+-  https://github.com/z175/kdmapper
 -  https://github.com/heckerli/netshield
 -  https://github.com/TalAloni/SMBLibrary
 -  https://www.unknowncheats.me/forum/c-and-c-/179852-ring0-random-string-generator-kernel-driver.html
