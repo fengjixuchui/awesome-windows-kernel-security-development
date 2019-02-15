@@ -133,6 +133,9 @@
 
 ## windows system programming
 
+-  https://github.com/mengskysama/V8 (chrome v8 engine)
+-  https://github.com/locustwei/WorkBack 
+-  https://github.com/360-A-Team/EventCleaner
 -  https://github.com/Microsoft/Windows-classic-samples
 -  https://github.com/troldal/OpenXLSX (.xlsx format)
 -  https://github.com/mity/windrawlib (GDI+ Helper)
@@ -280,6 +283,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/Mouka-Yang/KernelDriverDemo
 -  https://github.com/tomLadder/WinLib
 -  https://github.com/coltonon/MoaRpm
 -  https://github.com/wanttobeno/ProcessManager_Ring0
@@ -620,6 +624,7 @@
 
 ## minifilter
 
+-  https://github.com/lxt1045/FileLogger
 -  https://github.com/vitalikpi/FileWall
 -  https://github.com/Mermeze/System-Monitor 
 -  https://github.com/cn505240/lightweight-reactive-snapshot-service
@@ -764,6 +769,7 @@
 
 ## rootkits
 
+-  https://github.com/KIDofot/BypassDriverDetection_And_Kill360Process
 -  https://github.com/longmode/UTKModule
 -  https://github.com/nkga/cheat-driver (read/write memory of arbitrary processes)
 -  https://github.com/lantaoxu/HWIDFaker (hwid fake)
