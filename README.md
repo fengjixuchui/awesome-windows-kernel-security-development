@@ -133,6 +133,7 @@
 
 ## windows system programming
 
+-  https://github.com/NtRaiseHardError/Kaiser
 -  https://github.com/mengskysama/V8 (chrome v8 engine)
 -  https://github.com/locustwei/WorkBack 
 -  https://github.com/360-A-Team/EventCleaner
@@ -1694,6 +1695,7 @@
 
 ## awesome
 
+-  https://github.com/fr0gger/awesome-ida-x64-olly-plugin
 -  https://github.com/Ridter/Intranet_Penetration_Tips
 -  https://github.com/danielmiessler/SecLists
 -  https://github.com/yeyintminthuhtut/Awesome-Red-Teaming
