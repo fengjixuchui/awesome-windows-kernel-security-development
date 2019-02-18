@@ -69,6 +69,7 @@
 
 ## c++ & js
 
+-  https://github.com/wargio/WSH-Framework
 -  https://github.com/ExpLife0011/WebBrowser
 -  https://github.com/wanttobeno/Study_mujs
 
@@ -133,6 +134,7 @@
 
 ## windows system programming
 
+-  https://github.com/libyal/liblnk
 -  https://github.com/NtRaiseHardError/Kaiser
 -  https://github.com/mengskysama/V8 (chrome v8 engine)
 -  https://github.com/locustwei/WorkBack 
@@ -1198,6 +1200,7 @@
 
 ## fuzzer
 
+-  https://github.com/mwrlabs/ViridianFuzzer
 -  https://github.com/GoSSIP-SJTU/TripleDoggy
 -  https://github.com/payatu/EMFFuzzer
 -  https://github.com/googleprojectzero/bochspwn-reloaded
@@ -1325,6 +1328,7 @@
 
 ## unpacker
 
+-  https://github.com/Phat3/PINdemonium (pin)
 -  https://github.com/BromiumLabs/PackerAttacker
 -  http://n10info.blogspot.com/2018/03/xvolkolak-010.html
 
