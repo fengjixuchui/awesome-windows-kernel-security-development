@@ -714,6 +714,7 @@
 
 ## wfp
 
+-  https://github.com/reinhardvz/enumwfp
 -  https://github.com/BOT-Man-JL/WFP-Traffic-Redirection-Driver
 -  https://github.com/henrypp/simplewall 
 -  https://github.com/dfct/PortMapper (Port Map)
@@ -1244,6 +1245,7 @@
 
 ## game hack
 
+-  https://github.com/luciouskami/APEX-EACBypass
 -  https://github.com/fenix01/cheatengine-library  (cheatengine library wrapper)
 -  https://github.com/GoodstudyChina/CSGO-Cheat
 -  https://github.com/Nixer1337/Nixware-GMOD
