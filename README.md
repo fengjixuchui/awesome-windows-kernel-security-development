@@ -134,6 +134,7 @@
 
 ## windows system programming
 
+-  https://github.com/TonyChen56/HackerTools
 -  https://github.com/libyal/liblnk
 -  https://github.com/NtRaiseHardError/Kaiser
 -  https://github.com/mengskysama/V8 (chrome v8 engine)
@@ -301,7 +302,7 @@
 
 -  https://github.com/DragonQuestHero/Kernel-Force-Delete (force delete file)
 -  https://github.com/MeeSong/WDKExt
--  https://github.com/HoShiMin/Kernel-Bridge
+-  https://github.com/HoShiMin/Kernel-Bridge (power)
 -  https://github.com/wjcsharp/Common
 -  https://github.com/ExpLife/DriverSTL
 -  https://github.com/sysprogs/BazisLib
@@ -405,6 +406,7 @@
 
 ## hook engine
 
+-  https://github.com/HoShiMin/HookLib (r3 & r0)
 -  https://github.com/Rebzzel/kiero (d3d hook)
 -  https://github.com/aschrein/apiparse
 -  https://github.com/zyantific/zyan-hook-engine
