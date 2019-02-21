@@ -134,6 +134,7 @@
 
 ## windows system programming
 
+-  https://github.com/Alex3434/GetHDDSerial
 -  https://github.com/TonyChen56/HackerTools
 -  https://github.com/libyal/liblnk
 -  https://github.com/NtRaiseHardError/Kaiser
@@ -775,6 +776,7 @@
 
 ## rootkits
 
+-  https://github.com/Alex3434/wmi-static-spoofer
 -  https://github.com/KIDofot/BypassDriverDetection_And_Kill360Process
 -  https://github.com/longmode/UTKModule
 -  https://github.com/nkga/cheat-driver (read/write memory of arbitrary processes)
@@ -1353,6 +1355,10 @@
 -  https://github.com/cea-sec/miasm
 -  https://github.com/illera88/Ponce
 -  https://github.com/gaasedelen/lighthouse
+
+## obfuscation
+
+-  https://github.com/DoctorLai/VBScript_Obfuscator
 
 ## deobfuscation
 
