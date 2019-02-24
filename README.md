@@ -17,6 +17,7 @@
     
 ## lightweight c++ gui library 
 
+-  https://github.com/idea4good/GuiLite
 -  https://github.com/golang-ui/nuklear
 -  https://github.com/Dovyski/cvui
 -  https://github.com/andlabs/libui
@@ -379,6 +380,7 @@
 
 ## inline hook
 
+-  https://github.com/adrianyy/kernelhook
 -  https://github.com/gfreivasc/VMTHook
 -  https://github.com/zhipeng515/MemberFunctionHook （member function hook）
 -  https://github.com/windy32/win32-console-hook-lib
@@ -433,6 +435,7 @@
 
 ## inject technique (ring0)
 
+-  https://github.com/adrianyy/KeInject
 -  https://github.com/Sqdwr/LoadImageInject
 -  https://github.com/haidragon/NewInjectDrv
 -  https://github.com/alex9191/Kernel-dll-injector (DllInjectFromKernel)
@@ -766,6 +769,7 @@
 
 ## wsk
 
+-  https://github.com/adrianyy/rw_socket_driver
 -  https://github.com/wbenny/KSOCKET
 -  https://github.com/xalley/WskHttp
 -  https://github.com/reinhardvz/wsk
@@ -1124,6 +1128,7 @@
 
 ## cve
 
+-  https://github.com/Ridter/acefile
 -  https://github.com/Ridter/Exchange2domain
 -  https://github.com/ze0r/cve-2018-8453-exp
 -  https://github.com/gravitational/cve-2018-1002105
@@ -1620,6 +1625,7 @@
 
 ## ring3 nt api
 
+-  https://github.com/adrianyy/x64-syscall
 -  https://github.com/icestudent/ontl
 -  https://www.vergiliusproject.com/kernels
 -  https://github.com/DissectMalware/WinNativeIO
