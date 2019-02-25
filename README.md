@@ -102,6 +102,10 @@
 
 -  https://github.com/wanttobeno/Dongle
 
+## spy++
+
+-  https://github.com/wjx0912/MySpy
+
 ## Shell Extension for Windows Explorer
 
 -  https://github.com/abhimanyusirohi/ThumbFish (nice demo)
@@ -135,6 +139,9 @@
 
 ## windows system programming
 
+-  https://github.com/jjzhang166/nargnos-WindowsUtil
+-  https://github.com/cool2528/baiduCDP
+-  https://github.com/anhkgg/SuperWeChatPC
 -  https://github.com/Alex3434/GetHDDSerial
 -  https://github.com/TonyChen56/HackerTools
 -  https://github.com/libyal/liblnk
@@ -321,6 +328,7 @@
 
 ## blackbone
 
+-  https://github.com/AbinMM/MemDllLoader_Blackbone
 -  https://github.com/hzqst/unicorn_pe
 -  https://github.com/nofvcks/AimKit-Pasted-Driver
 -  https://github.com/alexpsp00/x-elite-loader
@@ -1664,6 +1672,10 @@
 ## shadow
 
 -  https://github.com/lcxl/lcxl-shadow
+
+## network lib
+
+-  https://github.com/zhllxt/asio2
 
 ## http
 
