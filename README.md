@@ -882,6 +882,7 @@
 
 ## malware
 
+-  https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp (C#)
 -  https://github.com/zerosum0x0/koadic (JScript RAT)
 -  https://github.com/malwaredllc/bamf
 -  https://github.com/malwaredllc/byob (py)
@@ -1316,6 +1317,7 @@
 
 ## anti cheat
 
+-  https://github.com/GravitLauncher/Avanguard
 -  https://github.com/Mouka-Yang/AntiCheatProtector
 -  https://github.com/mq1n/NoMercy
 -  https://github.com/SagaanTheEpic/Sagaan-AntiCheat-V2.0
@@ -1680,6 +1682,8 @@
 
 ## http
 
+-  https://github.com/vlinhd11/WinHttpClass
+-  https://github.com/hpsocket/restclient-cpp
 -  https://github.com/farawaaay/http2 (http/2)
 -  https://github.com/OlehKulykov/libnhr
 -  https://github.com/erickutcher/httpdownloader
@@ -1863,6 +1867,7 @@
 
 ## miscellaneous
 
+-  https://github.com/theopolis/uefi-firmware-parser
 -  https://github.com/z175/kdmapper
 -  https://github.com/heckerli/netshield
 -  https://github.com/TalAloni/SMBLibrary
