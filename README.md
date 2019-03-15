@@ -1088,6 +1088,7 @@
 
 ## LPE
 
+-  https://github.com/DoubleLabyrinth/SdoKeyCrypt-sys-local-privilege-elevation
 -  https://github.com/AlessandroZ/BeRoot
 -  https://github.com/HackerPide/The-Division-Bypass (division bypass)
 -  https://github.com/khr0x40sh/WhiteListEvasion
@@ -1972,6 +1973,7 @@
 
 ## blogs
 
+-  https://guidedhacking.com (game hack)
 -  http://kdext.com/links.html
 -  http://www.reconstructer.org/papers/Hunting%20rootkits%20with%20Windbg.pdf
 -  https://www.slideshare.net/MSbluehat/bluehat-v18-memory-resident-implants-code-injection-is-alive-and-well
