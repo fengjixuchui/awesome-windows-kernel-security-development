@@ -139,6 +139,8 @@
 
 ## windows system programming
 
+-  https://github.com/NoMoreFood/WinPriv
+-  https://github.com/yejiansnake/windows-sys-base
 -  https://github.com/lifenjoiner/pacdbger
 -  https://github.com/lifenjoiner/sendto-plus
 -  https://github.com/billziss-gh/winspd
@@ -983,6 +985,7 @@
 
 ## bypass dse
 
+-  https://github.com/Mattiwatti/EfiGuard
 -  https://github.com/hfiref0x/TDL
 -  https://github.com/hfiref0x/DSEFix
 
@@ -1143,6 +1146,7 @@
 
 ## cve
 
+-  https://github.com/ze0r/cve-2019-0808-poc
 -  https://github.com/Ridter/acefile
 -  https://github.com/Ridter/Exchange2domain
 -  https://github.com/ze0r/cve-2018-8453-exp
@@ -1421,6 +1425,7 @@
 
 ## x64dbg plugin
 
+-  https://github.com/Ahmadmansoor/AdvancedScript
 -  https://github.com/changeofpace/Force-Page-Protection
 -  https://github.com/secrary/idenLib
 -  https://github.com/Gbps/x64dbg-consonance-theme
@@ -1742,6 +1747,7 @@
 
 ## awesome
 
+-  https://github.com/anhkgg/awesome-windbg-extensions
 -  https://github.com/wcventure/FuzzingPaper
 -  https://github.com/fr0gger/awesome-ida-x64-olly-plugin
 -  https://github.com/Ridter/Intranet_Penetration_Tips
@@ -1878,6 +1884,7 @@
 
 ## miscellaneous
 
+-  https://github.com/rabbitstack/fibratus (https://github.com/rabbitstack/fibratus)
 -  https://github.com/theopolis/uefi-firmware-parser
 -  https://github.com/z175/kdmapper
 -  https://github.com/heckerli/netshield
@@ -2149,6 +2156,7 @@
 
 ## paper
 
+-  https://hitcon.org/2018/CMT/slide-files/d1_s5_r0.pdf?v=2 (game cheat)
 -  https://github.com/tyranid/WindowsRuntimeSecurityDemos
 -  https://translation-zh-cn.readthedocs.io/zh_CN/
 -  https://speakerdeck.com
@@ -2175,6 +2183,11 @@
 -  http://www.lybbn.cn/data/datas.php?yw=76
 -  https://blog.huzhifeng.com/2017/07/16/PAC/
 -  https://github.com/manugarg/pacparser
+
+## javascript
+
+-  https://github.com/qianguyihao/Web
+-  https://github.com/Daotin/front-end-self-study-notes
 
 ## js obfuscator/deobfuscator
 
