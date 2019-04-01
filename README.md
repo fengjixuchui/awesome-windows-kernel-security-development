@@ -139,6 +139,8 @@
 
 ## windows system programming
 
+-  https://github.com/horsicq/Nauz-File-Detector
+-  https://github.com/horsicq/xntsv (nt struct)
 -  https://github.com/jnastarot/shibari (pe+)
 -  https://github.com/NoMoreFood/WinPriv
 -  https://github.com/yejiansnake/windows-sys-base
@@ -1427,6 +1429,7 @@
 
 ## x64dbg plugin
 
+-  https://github.com/horsicq
 -  https://github.com/Ahmadmansoor/AdvancedScript
 -  https://github.com/changeofpace/Force-Page-Protection
 -  https://github.com/secrary/idenLib
