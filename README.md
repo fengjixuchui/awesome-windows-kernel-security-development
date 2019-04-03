@@ -139,6 +139,7 @@
 
 ## windows system programming
 
+-  https://github.com/Silica/sandbox
 -  https://github.com/horsicq/Nauz-File-Detector
 -  https://github.com/horsicq/xntsv (nt struct)
 -  https://github.com/jnastarot/shibari (pe+)
@@ -1752,6 +1753,8 @@
 
 ## awesome
 
+-  https://github.com/xuanhun/HackingResource
+-  https://github.com/yeyintminthuhtut/Awesome-Windows-Exploitation-Study-References
 -  https://github.com/anhkgg/awesome-windbg-extensions
 -  https://github.com/wcventure/FuzzingPaper
 -  https://github.com/fr0gger/awesome-ida-x64-olly-plugin
@@ -1989,6 +1992,7 @@
 
 ## blogs
 
+-  https://blog.csdn.net/hgy413/article/details/7054870 (windbg  usage)
 -  https://guidedhacking.com (game hack)
 -  http://kdext.com/links.html
 -  http://www.reconstructer.org/papers/Hunting%20rootkits%20with%20Windbg.pdf
