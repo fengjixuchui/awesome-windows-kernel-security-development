@@ -139,6 +139,7 @@
 
 ## windows system programming
 
+-  https://github.com/can1357/WinFaults
 -  https://github.com/Silica/sandbox
 -  https://github.com/horsicq/Nauz-File-Detector
 -  https://github.com/horsicq/xntsv (nt struct)
@@ -1992,6 +1993,7 @@
 
 ## blogs
 
+-  http://www.dbgtech.net (windbg help)
 -  https://blog.csdn.net/hgy413/article/details/7054870 (windbg  usage)
 -  https://guidedhacking.com (game hack)
 -  http://kdext.com/links.html
@@ -2165,6 +2167,7 @@
 
 ## paper
 
+-  https://www.virusbulletin.com/uploads/pdf/conference_slides/2018/Svajcer-VB2018-KernelModeAnalysis.pdf (windbg usage)
 -  https://hitcon.org/2018/CMT/slide-files/d1_s5_r0.pdf?v=2 (game cheat)
 -  https://github.com/tyranid/WindowsRuntimeSecurityDemos
 -  https://translation-zh-cn.readthedocs.io/zh_CN/
