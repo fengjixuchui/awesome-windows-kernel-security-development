@@ -1282,6 +1282,7 @@
 
 ## game hack
 
+-  https://github.com/EquiFox/KsDumper (process dump from kernel space)
 -  https://github.com/EternityX/DEADCELL-CSGO
 -  https://github.com/M-T3K/GameHacking
 -  https://github.com/nanoric/pkn
@@ -1809,6 +1810,7 @@
 
 -  https://www.pelock.com/products/string-encrypt
 -  https://www.pelock.com/products/obfuscator
+-  https://github.com/hasherezade/funky_malware_formats
 -  https://github.com/hasherezade/hollows_hunter  (scan hook)
 -  https://github.com/hasherezade/pe-sieve
 -  https://github.com/hasherezade/bearparser
