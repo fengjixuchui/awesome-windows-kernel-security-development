@@ -27,6 +27,8 @@
     
 ## direct ui
 
+-  https://github.com/SOUI2/soui
+-  https://github.com/netease-im/NIM_Duilib_Framework
 -  https://github.com/gclxry/EasyDuilib
 -  https://github.com/v-star0719/MFC_LogicalWnd
 -  https://github.com/duzhi5368/FKDuiLibEditor
@@ -139,6 +141,7 @@
 
 ## windows system programming
 
+-  https://github.com/bb107/WinSudo
 -  https://github.com/can1357/WinFaults
 -  https://github.com/Silica/sandbox
 -  https://github.com/horsicq/Nauz-File-Detector
