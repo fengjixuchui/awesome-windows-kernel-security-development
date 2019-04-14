@@ -27,6 +27,7 @@
     
 ## direct ui
 
+-  http://help.5yyz.com/665984
 -  https://github.com/SOUI2/soui
 -  https://github.com/netease-im/NIM_Duilib_Framework
 -  https://github.com/gclxry/EasyDuilib
@@ -466,6 +467,7 @@
 
 ## inject technique (ring3)
 
+-  https://github.com/vmcall/eye_mapper (BattlEye x64 usermode injector)
 -  https://github.com/Shaxzy/VibranceInjector
 -  https://github.com/xiaobo93/UnModule_shellcode_Inject
 -  https://github.com/Cybellum/DoubleAgent
@@ -803,6 +805,7 @@
 
 ## rootkits
 
+-  https://github.com/zerosum0x0/smbdoor
 -  https://github.com/Alex3434/wmi-static-spoofer
 -  https://github.com/KIDofot/BypassDriverDetection_And_Kill360Process
 -  https://github.com/longmode/UTKModule
@@ -1471,6 +1474,7 @@
 
 ## ida script & plugin
 
+-  https://github.com/0xeb/ida-qscripts (easy developing script)
 -  https://github.com/google/binexport
 -  https://github.com/nihilus/ida-pro-swf
 -  https://github.com/ax330d/hrdev
