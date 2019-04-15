@@ -73,6 +73,7 @@
 
 ## c++ & js
 
+-  https://github.com/panopticoncentral/jsrt-wrappers
 -  https://github.com/wargio/WSH-Framework
 -  https://github.com/ExpLife0011/WebBrowser
 -  https://github.com/wanttobeno/Study_mujs
@@ -142,6 +143,7 @@
 
 ## windows system programming
 
+-  https://github.com/binbibi/libedge
 -  https://github.com/bb107/WinSudo
 -  https://github.com/can1357/WinFaults
 -  https://github.com/Silica/sandbox
@@ -899,6 +901,7 @@
 
 ## malware
 
+-  https://github.com/Darkabode/possessor
 -  https://github.com/Darkabode/zerokit
 -  https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp (C#)
 -  https://github.com/zerosum0x0/koadic (JScript RAT)
@@ -1815,6 +1818,7 @@
 
 ## pe tool
 
+-  https://github.com/Darkabode/amte
 -  https://www.pelock.com/products/string-encrypt
 -  https://www.pelock.com/products/obfuscator
 -  https://github.com/hasherezade/funky_malware_formats
@@ -2238,6 +2242,7 @@
 
 ## library
 
+-  https://github.com/myfreeer/cppreference2mshelp/
 -  https://www.ctolib.com/
 
 # `awesome-windows-kernel-security-development`
