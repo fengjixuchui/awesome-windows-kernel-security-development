@@ -143,6 +143,7 @@
 
 ## windows system programming
 
+-  https://github.com/hfiref0x/WDExtract
 -  https://github.com/binbibi/libedge
 -  https://github.com/bb107/WinSudo
 -  https://github.com/can1357/WinFaults
@@ -469,6 +470,7 @@
 
 ## inject technique (ring3)
 
+-  https://github.com/nccgroup/ncloader (A session-0 capable dll injection utility)
 -  https://github.com/vmcall/eye_mapper (BattlEye x64 usermode injector)
 -  https://github.com/Shaxzy/VibranceInjector
 -  https://github.com/xiaobo93/UnModule_shellcode_Inject
@@ -901,6 +903,7 @@
 
 ## malware
 
+-  https://github.com/mstfknn/malware-sample-library
 -  https://github.com/Darkabode/possessor
 -  https://github.com/Darkabode/zerokit
 -  https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp (C#)
@@ -1291,6 +1294,7 @@
 
 ## game hack
 
+-  https://github.com/adrianyy/EACReversing （EAC）
 -  https://github.com/EquiFox/KsDumper (process dump from kernel space)
 -  https://github.com/EternityX/DEADCELL-CSGO
 -  https://github.com/M-T3K/GameHacking
