@@ -17,6 +17,7 @@
     
 ## lightweight c++ gui library 
 
+-  https://github.com/zlgopen/awtk
 -  https://github.com/idea4good/GuiLite
 -  https://github.com/golang-ui/nuklear
 -  https://github.com/Dovyski/cvui
@@ -1040,6 +1041,7 @@
 
 ## windows kernel exploits
 
+-  https://github.com/n3k/EKOParty2015_Windows_SMEP_Bypass (SEMP bypass)
 -  https://github.com/saaramar/execve_exploit (WSL)
 -  https://github.com/siberas/CVE-2016-3309_Reloaded
 -  https://github.com/moccajoghurt/drvmap_secure
@@ -1700,6 +1702,7 @@
 
 ## metasploit
 
+-  https://github.com/dr0op/MsfRpcApi
 -  https://github.com/phackt/stager.dll
 -  https://github.com/ExpLife/metasploit-framework
 -  https://github.com/NytroRST/NetRipper
@@ -1727,6 +1730,7 @@
 
 ## https proxy
 
+-  https://github.com/justcoding121/Titanium-Web-Proxy
 -  http://anyproxy.io/cn/
 -  https://github.com/killbug2004/HttpsProxy
 -  https://github.com/erickutcher/httpproxy
