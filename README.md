@@ -890,6 +890,7 @@
 
 ## anti debug
 
+-  https://github.com/nihilboy/anti
 -  https://github.com/atlantis2013/Evasion-Tools
 -  https://github.com/AlicanAkyol/sems
 -  https://github.com/strivexjun/XAntiDebug
@@ -1773,6 +1774,7 @@
 
 ## awesome
 
+-  https://github.com/jobbole/awesome-design-cn
 -  https://github.com/xuanhun/HackingResource
 -  https://github.com/yeyintminthuhtut/Awesome-Windows-Exploitation-Study-References
 -  https://github.com/anhkgg/awesome-windbg-extensions
