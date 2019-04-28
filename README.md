@@ -810,6 +810,7 @@
 
 ## rootkits
 
+-  https://github.com/GayPig/driverless-basic-driver
 -  https://github.com/zerosum0x0/smbdoor
 -  https://github.com/Alex3434/wmi-static-spoofer
 -  https://github.com/KIDofot/BypassDriverDetection_And_Kill360Process
@@ -1395,6 +1396,7 @@
 
 ## pin
 
+-  https://github.com/Fare9/ANBU
 -  https://github.com/BreakingMalware/Selfie
 -  https://github.com/BreakingMalware/AVulnerabilityChecker
 -  https://github.com/hasherezade/MyPinTools
@@ -2090,6 +2092,7 @@
 
 ## web security research site
 
+-  https://github.com/frizb/Bypassing-Web-Application-Firewalls (bypass waf)
 -  http://malware-traffic-analysis.net
 -  https://malwaretips.com/
 -  https://www.sec-wiki.com
