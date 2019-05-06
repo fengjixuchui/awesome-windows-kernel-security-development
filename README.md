@@ -144,6 +144,7 @@
 
 ## windows system programming
 
+-  https://github.com/laxodev/RAII-WINAPI-Memory-Manager
 -  https://github.com/hfiref0x/WDExtract
 -  https://github.com/binbibi/libedge
 -  https://github.com/bb107/WinSudo
@@ -1298,6 +1299,7 @@
 
 ## game hack
 
+-  https://github.com/EternityX/DEADCELL-CSGO
 -  https://github.com/adrianyy/EACReversing （EAC）
 -  https://github.com/EquiFox/KsDumper (process dump from kernel space)
 -  https://github.com/EternityX/DEADCELL-CSGO
@@ -1378,6 +1380,7 @@
 
 ## pe protector
 
+-  https://github.com/93aef0ce4dd141ece6f5/Packer
 -  https://github.com/devilogic/xvirus
 -  https://github.com/nickcano/RelocBonus 
 -  https://github.com/jnastarot/furikuri
@@ -2254,6 +2257,10 @@
 ## downloader
 
 -  https://github.com/alanzhangzm/Photon
+
+## python
+
+-  https://github.com/jackfrued/Python-100-Days
 
 ## library
 
