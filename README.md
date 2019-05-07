@@ -763,6 +763,7 @@
 -  https://github.com/gifur/NetworkMnt
 -  https://github.com/ss-abramchuk/OpenVPNAdapter/blob/f016614ed3dec30672e4f1821344b7992825a98d/OpenVPN%20Adapter/Vendors/openvpn/openvpn/tun/win/wfp.hpp
 -  https://github.com/itari/vapu
+-  https://github.com/ValdikSS/GoodbyeDPI
 -  https://github.com/basil00/Divert
 -  https://github.com/WPO-Foundation/win-shaper
 -  https://github.com/raymon-tian/WFPFirewall
@@ -907,6 +908,7 @@
 
 ## malware
 
+-  https://github.com/InQuest/malware-samples
 -  https://github.com/mstfknn/malware-sample-library
 -  https://github.com/Darkabode/possessor
 -  https://github.com/Darkabode/zerokit
@@ -1299,6 +1301,7 @@
 
 ## game hack
 
+-  https://github.com/ApexLegendsUC/anti-cheat-emulator
 -  https://github.com/EternityX/DEADCELL-CSGO
 -  https://github.com/adrianyy/EACReversing （EAC）
 -  https://github.com/EquiFox/KsDumper (process dump from kernel space)
@@ -1520,6 +1523,7 @@
 
 ## idapython
 
+-  https://github.com/sophoslabs/WebAssembly
 -  https://github.com/howmp/COMFinder
 -  https://github.com/maddiestone/IDAPythonEmbeddedToolkit
 -  https://github.com/zyantific/IDASkins
