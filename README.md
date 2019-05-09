@@ -6,7 +6,7 @@
  
 ## pe file format
 
--  https://github.com/corkami/pics
+-  https://github.com/corkami/pics 
     
 ## meltdown/spectre poc
 
@@ -60,6 +60,7 @@
 
 ## WebBrowser
 
+-  https://github.com/zhichao281/duilib-MiniBlinkBrowser
 -  https://github.com/litehtml/litebrowser 
 -  https://github.com/venam/Browser (lib)
 -  https://github.com/wanttobeno/Study_IWebBrowser2
@@ -143,7 +144,9 @@
 -  https://github.com/phwitti/cmdhere
 
 ## windows system programming
-
+ 
+-  https://github.com/microsoft/NetworkDirect
+-  https://github.com/jay/gethooks
 -  https://github.com/laxodev/RAII-WINAPI-Memory-Manager
 -  https://github.com/hfiref0x/WDExtract
 -  https://github.com/binbibi/libedge
@@ -151,7 +154,7 @@
 -  https://github.com/can1357/WinFaults
 -  https://github.com/Silica/sandbox
 -  https://github.com/horsicq/Nauz-File-Detector
--  https://github.com/horsicq/xntsv (nt struct)
+-  https://github.com/horsicq/xntsv (nt struct) 
 -  https://github.com/jnastarot/shibari (pe+)
 -  https://github.com/NoMoreFood/WinPriv
 -  https://github.com/yejiansnake/windows-sys-base
@@ -2026,6 +2029,8 @@
 
 ## blogs
 
+-  https://redogwu.github.io (kernel exp)
+-  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/debugger/debug-universal-drivers--kernel-mode-#kernelmodedebuggingcommandsandtechniques (windbg help)
 -  http://www.dbgtech.net (windbg help)
 -  https://blog.csdn.net/hgy413/article/details/7054870 (windbg  usage)
 -  https://guidedhacking.com (game hack)
