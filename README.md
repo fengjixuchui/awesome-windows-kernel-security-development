@@ -53,6 +53,10 @@
 
 -  https://github.com/shuax/GreenChrome
 
+## chrome Extension 
+
+-  https://github.com/Tuhinshubhra/ExtAnalysis
+
 ## cef
 
 -  https://github.com/acristoffers/CEF3SimpleSample
@@ -144,7 +148,8 @@
 -  https://github.com/phwitti/cmdhere
 
 ## windows system programming
- 
+
+-  https://github.com/fritzone/obfy
 -  https://github.com/microsoft/NetworkDirect
 -  https://github.com/jay/gethooks
 -  https://github.com/laxodev/RAII-WINAPI-Memory-Manager
@@ -1304,6 +1309,7 @@
 
 ## game hack
 
+-  https://github.com/danielkrupinski/Osiris
 -  https://github.com/ApexLegendsUC/anti-cheat-emulator
 -  https://github.com/EternityX/DEADCELL-CSGO
 -  https://github.com/adrianyy/EACReversing （EAC）
