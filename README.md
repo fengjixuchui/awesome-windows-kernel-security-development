@@ -901,6 +901,7 @@
 
 ## anti debug
 
+-  https://github.com/sharepub/CheckVM-Sandbox
 -  https://github.com/nihilboy/anti
 -  https://github.com/atlantis2013/Evasion-Tools
 -  https://github.com/AlicanAkyol/sems
@@ -1044,6 +1045,7 @@
 
 ## windows exploits
 
+-  https://github.com/rockmelodies/CVE-2019-0708-Exploit (RDP)
 -  https://github.com/admintony/svnExploit
 -  https://github.com/smgorelik/Windows-RCE-exploits
 -  https://github.com/WindowsExploits/Exploits
@@ -1310,6 +1312,7 @@
 
 ## game hack
 
+-  https://github.com/luciouskami/LOL-CN-Anti-AntCheat
 -  https://github.com/danielkrupinski/Osiris
 -  https://github.com/ApexLegendsUC/anti-cheat-emulator
 -  https://github.com/EternityX/DEADCELL-CSGO
@@ -2221,10 +2224,12 @@
 
 ## ebook
 
+-  https://github.com/Bypass007/Emergency-Response-Notes 
+-  https://github.com/yifengyou/The-design-and-implementation-of-a-64-bit-operating-system
 -  https://github.com/firmianay/CTF-All-In-One
 -  https://github.com/cfenollosa/os-tutorial 
 -  https://github.com/Snowming04/The-Hacker-Playbook-3-Translation
--  https://github.com/xuanhun/PythonHackingBook1
+-  https://github.com/xuanhun/PythonHackingBook1 
 -  https://github.com/xapax/security
 -  https://github.com/chryzsh/DarthSidious (AD Domain hack)
 -  https://github.com/chryzsh/practical-hacking
