@@ -1266,6 +1266,7 @@
 
 ## fuzzer
 
+-  https://github.com/wcventure/FuzzingPaper
 -  https://github.com/mwrlabs/ViridianFuzzer
 -  https://github.com/GoSSIP-SJTU/TripleDoggy
 -  https://github.com/payatu/EMFFuzzer
@@ -1507,6 +1508,7 @@
 
 ## ida script & plugin
 
+-  https://github.com/patois/HRDevHelper 
 -  https://github.com/0xeb/ida-qscripts (easy developing script)
 -  https://github.com/google/binexport
 -  https://github.com/nihilus/ida-pro-swf
