@@ -149,6 +149,8 @@
 
 ## windows system programming
 
+-  https://github.com/77Sera/BrowserSecurity
+-  https://github.com/amitwaisel/Malproxy (Proxy system calls over an RPC channel)
 -  https://github.com/jnastarot/soul_eater (it can extract functions from .dll, .exe, .sys)
 -  https://github.com/mtth-bfft/lsobj
 -  https://github.com/mtth-bfft/ntsec
@@ -1049,6 +1051,7 @@
 
 ## windows exploits
 
+-  https://github.com/wchen-r7/VulnCases (cases)
 -  https://github.com/rockmelodies/CVE-2019-0708-Exploit (RDP)
 -  https://github.com/admintony/svnExploit
 -  https://github.com/smgorelik/Windows-RCE-exploits
