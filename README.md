@@ -28,7 +28,7 @@
     
 ## direct ui
  
--  http://help.5yyz.com/665984
+-  http://help.5yyz.com/665984 
 -  https://github.com/SOUI2/soui
 -  https://github.com/netease-im/NIM_Duilib_Framework
 -  https://github.com/gclxry/EasyDuilib
@@ -149,6 +149,8 @@
 
 ## windows system programming
 
+-  https://github.com/not-matthias/Nemesis (process dumper)
+-  https://github.com/QAX-A-Team/EventCleaner
 -  https://github.com/BlackINT3/none (common lib)
 -  https://github.com/77Sera/BrowserSecurity
 -  https://github.com/amitwaisel/Malproxy (Proxy system calls over an RPC channel)
