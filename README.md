@@ -1196,6 +1196,7 @@
 
 ## cve
 
+-  https://github.com/o0xmuhe/RealWorldPwn
 -  https://github.com/sophoslabs/CVE-2019-0888 (ADO UAF)
 -  https://github.com/Iamgublin/CVE-2019-0803 (LPE)
 -  https://github.com/ze0r/cve-2019-0808-poc
@@ -1223,6 +1224,7 @@
 
 ## windows hypervisor 
 
+-  https://github.com/0vercl0k/pywinhv
 -  https://github.com/gamozolabs/falkervisor_grilled_cheese
 -  https://github.com/redogwu/hyper-v
 -  https://github.com/Ekrte/hithithit
