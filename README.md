@@ -150,6 +150,7 @@
 
 ## windows system programming
 
+-  https://github.com/LoukaMB/ExceptionSupervisor
 -  https://github.com/zmrbak/PcWeChatHooK
 -  https://github.com/not-matthias/Nemesis (process dumper)
 -  https://github.com/QAX-A-Team/EventCleaner
@@ -746,6 +747,7 @@
 
 ## alpc
 
+-  https://github.com/LoukaMB/Beacon
 -  https://github.com/avalon1610/ALPC
 
 ## lsp/spi
