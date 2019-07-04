@@ -150,6 +150,8 @@
 
 ## windows system programming
 
+-  https://github.com/MiroKaku/ConMon
+-  https://github.com/SinaKarvandi/Process-Magics
 -  https://github.com/LoukaMB/ExceptionSupervisor
 -  https://github.com/zmrbak/PcWeChatHooK
 -  https://github.com/not-matthias/Nemesis (process dumper)
