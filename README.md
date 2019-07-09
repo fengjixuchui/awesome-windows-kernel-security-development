@@ -28,6 +28,8 @@
     
 ## direct ui
  
+-  http://www.skinui.cn/
+-  https://www.showdoc.cc/skinui?page_id=135303
 -  http://help.5yyz.com/665984 
 -  https://github.com/SOUI2/soui
 -  https://github.com/netease-im/NIM_Duilib_Framework
@@ -150,6 +152,9 @@
 
 ## windows system programming
 
+-  https://github.com/zodiacon/RegEditX
+-  https://github.com/ZhanLang/jcfs (everything)
+-  https://github.com/ZhanLang/msdk (sdk)
 -  https://github.com/MiroKaku/ConMon
 -  https://github.com/SinaKarvandi/Process-Magics
 -  https://github.com/LoukaMB/ExceptionSupervisor
@@ -1200,6 +1205,7 @@
 
 ## cve
 
+-  https://github.com/thepwnrip/leHACK-Analysis-of-CVE-2018-8453
 -  https://github.com/o0xmuhe/RealWorldPwn
 -  https://github.com/sophoslabs/CVE-2019-0888 (ADO UAF)
 -  https://github.com/Iamgublin/CVE-2019-0803 (LPE)
