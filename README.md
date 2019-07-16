@@ -384,6 +384,7 @@
 
 ## hidinput
 
+-  https://github.com/changeofpace/MouHidInputHook
 -  https://github.com/hawku/TabletDriver
 -  https://github.com/ViGEm/HidGuardian
 -  https://github.com/ecologylab/EcoTUIODriver
@@ -782,6 +783,7 @@
 
 ## wfp
 
+-  https://github.com/ZhanLang/netmonsys
 -  https://github.com/reinhardvz/enumwfp
 -  https://github.com/BOT-Man-JL/WFP-Traffic-Redirection-Driver
 -  https://github.com/henrypp/simplewall 
@@ -1234,6 +1236,7 @@
 
 ## windows hypervisor 
 
+-  https://github.com/comaeio/LiveCloudKd
 -  https://github.com/0vercl0k/pywinhv
 -  https://github.com/gamozolabs/falkervisor_grilled_cheese
 -  https://github.com/redogwu/hyper-v
@@ -1829,6 +1832,7 @@
 
 ## awesome
 
+-  https://github.com/streetleague/0xbird.github.io
 -  https://github.com/BlackINT3/awesome-debugging
 -  https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References
 -  https://github.com/jobbole/awesome-design-cn
