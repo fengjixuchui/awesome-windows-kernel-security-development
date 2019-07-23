@@ -492,6 +492,7 @@
 
 ## inject technique (ring0)
 
+-  https://github.com/mactec0/Kernelmode-manual-mapping-through-IAT 
 -  https://github.com/adrianyy/KeInject
 -  https://github.com/Sqdwr/LoadImageInject
 -  https://github.com/haidragon/NewInjectDrv
