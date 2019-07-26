@@ -152,6 +152,7 @@
 
 ## windows system programming
 
+-  https://github.com/NYAN-x-CAT/Disable-Windows-Defender
 -  https://github.com/d35ha/CallObfuscator
 -  https://github.com/zodiacon/RegEditX
 -  https://github.com/ZhanLang/jcfs (everything)
@@ -501,6 +502,7 @@
 
 ## inject technique (ring3)
 
+-  https://github.com/odzhan/injection
 -  https://github.com/M-r-J-o-h-n/SWH-Injector
 -  https://github.com/nccgroup/ncloader (A session-0 capable dll injection utility)
 -  https://github.com/vmcall/eye_mapper (BattlEye x64 usermode injector)
