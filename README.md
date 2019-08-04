@@ -80,6 +80,10 @@
 
 -  https://github.com/vinniefalco/LuaBridge
 
+## DesignPattern
+
+-  https://github.com/GoodmanTao/DesignPatternInC
+
 ## c++ & js
 
 -  https://github.com/panopticoncentral/jsrt-wrappers
@@ -1089,6 +1093,7 @@
 
 ## windows kernel exploits
 
+-  https://www.unknowncheats.me/forum/anti-cheat-bypass/334557-vulnerable-driver-megathread.html?nsukey=CkSGplDUMAWaGbr8btXXDeNqNyzCau83773dZHbUgTD2KbfFsN4ReqwwjwB1TE2jjUz0HHSUQSrvX7JZ%2BtA0RPQFg5pWsGwlyCVT6EW1cF8Y%2BDfa%2Fd8KHdi%2FFG5mj6oTcKaCfR%2BQmUANoXeWHbzursQ68JQdcT5zfCKwgR7ZutAla5N%2FHH8448BpwB4nKJuBB0ns7Ex0vVB7O8j%2BkcFaug%3D%3D
 -  https://github.com/n3k/EKOParty2015_Windows_SMEP_Bypass (SEMP bypass)
 -  https://github.com/saaramar/execve_exploit (WSL)
 -  https://github.com/siberas/CVE-2016-3309_Reloaded
@@ -1304,6 +1309,7 @@
 
 ## fuzzer
 
+-  https://github.com/rk700/uniFuzzer (closed-source binaries fuzzer)
 -  https://github.com/trailofbits/sienna-locomotive
 -  https://github.com/compsec-snu/razzer
 -  https://github.com/wcventure/FuzzingPaper
@@ -1533,6 +1539,7 @@
 
 ## windbg plugin
 
+- https://github.com/fdiskyou/iris
 - https://github.com/pstolarz/dumpext (pe unpack)
 - http://www.andreybazhan.com/debugging.html
 - https://github.com/vallejocc/Reverse-Engineering-Arsenal/ (anti-anti_debugging winDbg scripts)
@@ -1883,6 +1890,7 @@
 -  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/wdf/
 -  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/samples/
 -  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/debugger/
+-  https://docs.microsoft.com/zh-cn/previous-versions/windows/embedded/gg157655(v=winembedded.80)
 
 ## windbg preview & jsprovider
 
