@@ -156,6 +156,9 @@
 
 ## windows system programming
 
+-  https://github.com/DOGSHITD/SciDetectorApp (SCI)
+-  https://github.com/DOGSHITD/AcpiTool (ACPI)
+-  https://github.com/VertexToEdge/WindowFunctionTracer 
 -  https://github.com/sganis/golddrive
 -  https://github.com/yanncam/exe2powershell
 -  https://github.com/owodelta/coilgun (Direct API Calling) 
@@ -445,6 +448,7 @@
 
 ## inline hook
 
+-  https://github.com/everdox/InfinityHook (Hook system calls, context switches, page faults)
 -  https://github.com/adrianyy/kernelhook
 -  https://github.com/gfreivasc/VMTHook
 -  https://github.com/zhipeng515/MemberFunctionHook （member function hook）
@@ -1891,6 +1895,7 @@
 -  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/samples/
 -  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/debugger/
 -  https://docs.microsoft.com/zh-cn/previous-versions/windows/embedded/gg157655(v=winembedded.80)
+-  https://docs.microsoft.com/zh-cn/windows-hardware/drivers/debugger/time-travel-debugging-overview
 
 ## windbg preview & jsprovider
 
