@@ -355,6 +355,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/apriorit/antirootkit-anti-splicer 
 -  https://github.com/Mouka-Yang/KernelDriverDemo
 -  https://github.com/tomLadder/WinLib
 -  https://github.com/coltonon/MoaRpm
@@ -858,6 +859,7 @@
 
 ## rootkits
 
+-  https://github.com/zouxianyu/KernelHiddenExecute
 -  https://github.com/isoadam/gina_public
 -  https://github.com/GayPig/driverless-basic-driver
 -  https://github.com/zerosum0x0/smbdoor
