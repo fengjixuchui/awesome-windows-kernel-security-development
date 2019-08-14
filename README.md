@@ -156,6 +156,8 @@
 
 ## windows system programming
 
+-  https://github.com/nogginware/mstscdump
+-  https://github.com/zodiacon/ApiSetView
 -  https://github.com/DOGSHITD/SciDetectorApp (SCI)
 -  https://github.com/DOGSHITD/AcpiTool (ACPI)
 -  https://github.com/VertexToEdge/WindowFunctionTracer 
@@ -514,6 +516,7 @@
 
 ## inject technique (ring3)
 
+-  https://github.com/SafeBreach-Labs/pinjectra
 -  https://github.com/odzhan/injection
 -  https://github.com/M-r-J-o-h-n/SWH-Injector
 -  https://github.com/nccgroup/ncloader (A session-0 capable dll injection utility)
@@ -1315,6 +1318,7 @@
 
 ## fuzzer
 
+-  https://github.com/mxmssh/manul
 -  https://github.com/nccgroup/fuzzowski
 -  https://github.com/rk700/uniFuzzer (closed-source binaries fuzzer)
 -  https://github.com/trailofbits/sienna-locomotive
