@@ -1245,6 +1245,7 @@
 
 ## hips
 
+-  https://github.com/secrary/DrSemu
 -  https://github.com/godaddy/procfilter
 -  https://github.com/BrunoMCBraga/Kernel-Whisperer
 -  https://malwaretips.com/threads/av-self-protection-process-c-c.66200/
@@ -1789,6 +1790,7 @@
 
 ## metasploit
 
+-  https://github.com/entynetproject/entypreter
 -  https://github.com/dr0op/MsfRpcApi
 -  https://github.com/phackt/stager.dll
 -  https://github.com/ExpLife/metasploit-framework
