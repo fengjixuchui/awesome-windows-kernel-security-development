@@ -156,6 +156,7 @@
 
 ## windows system programming
 
+-  https://github.com/Dankirk/RegSLScan
 -  https://github.com/nogginware/mstscdump
 -  https://github.com/zodiacon/ApiSetView
 -  https://github.com/DOGSHITD/SciDetectorApp (SCI)
@@ -1569,6 +1570,7 @@
 
 ## ida script & plugin
 
+-  https://github.com/ampotos/dynStruct
 -  https://github.com/patois/HRDevHelper 
 -  https://github.com/0xeb/ida-qscripts (easy developing script)
 -  https://github.com/google/binexport
