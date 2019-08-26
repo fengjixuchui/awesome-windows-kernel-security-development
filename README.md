@@ -7,7 +7,13 @@
 ## pe file format
 
 -  https://github.com/corkami/pics 
-    
+
+## asm ide
+
+-  https://github.com/ThomasJaeger/VisualMASM
+-  https://github.com/Dman95/SASM
+-  https://github.com/mrfearless/UASM-with-RadASM
+
 ## meltdown/spectre poc
 
 -  https://github.com/turbo/KPTI-PoC-Collection
@@ -1381,6 +1387,7 @@
 
 ## game hack
 
+-  https://github.com/JakeDahl/ApexStuff
 -  https://github.com/luciouskami/LOL-CN-Anti-AntCheat
 -  https://github.com/danielkrupinski/Osiris
 -  https://github.com/ApexLegendsUC/anti-cheat-emulator
@@ -2323,6 +2330,7 @@
 
 ## ctf
 
+-  https://github.com/Ignitetechnologies/Privilege-Escalation
 -  https://github.com/ktecv2000/How-to-play-CTF
 
 ## pentest
