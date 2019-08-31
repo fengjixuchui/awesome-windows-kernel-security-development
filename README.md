@@ -162,6 +162,7 @@
 
 ## windows system programming
 
+-  https://github.com/marcosd4h/sysmonx
 -  https://github.com/Dankirk/RegSLScan
 -  https://github.com/nogginware/mstscdump
 -  https://github.com/zodiacon/ApiSetView
@@ -379,6 +380,7 @@
 
 ## windows kernel driver with c++ runtime
 
+-  https://github.com/ZhanLang/msddk
 -  https://github.com/DragonQuestHero/Kernel-Force-Delete (force delete file)
 -  https://github.com/MeeSong/WDKExt
 -  https://github.com/HoShiMin/Kernel-Bridge (power)
@@ -489,6 +491,7 @@
 
 ## hook engine
 
+-  https://github.com/danielkrupinski/vac-hooks
 -  https://github.com/vol4ok/libsplice (r3 & r0)
 -  https://github.com/HoShiMin/HookLib (r3 & r0)
 -  https://github.com/Rebzzel/kiero (d3d hook)
@@ -632,6 +635,7 @@
 
 ## com hijack
 
+-  https://github.com/leoloobeek/COMProxy
 -  https://github.com/enigma0x3/MessageBox
 
 ## anti dll hijack
@@ -1189,6 +1193,7 @@
 
 ## LPE
 
+-  https://github.com/itm4n/UsoDllLoader
 -  https://github.com/DoubleLabyrinth/SdoKeyCrypt-sys-local-privilege-elevation
 -  https://github.com/AlessandroZ/BeRoot
 -  https://github.com/HackerPide/The-Division-Bypass (division bypass)
@@ -1197,6 +1202,11 @@
 -  https://github.com/nmulasmajic/syscall_exploit_CVE-2018-8897
 -  https://github.com/codewhitesec/UnmarshalPwn
 -  https://ohpe.github.io/juicy-potato/
+
+## linux exploit
+
+-  https://github.com/Lazenca/Exploit-tech
+-  https://github.com/Lazenca/Kernel-exploit-tech
 
 ## office exploit
 
@@ -1334,6 +1344,7 @@
 
 ## fuzzer
 
+-  https://github.com/bin2415/fuzzing_paper
 -  https://github.com/mxmssh/manul
 -  https://github.com/nccgroup/fuzzowski
 -  https://github.com/rk700/uniFuzzer (closed-source binaries fuzzer)
