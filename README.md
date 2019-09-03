@@ -86,8 +86,13 @@
 
 -  https://github.com/vinniefalco/LuaBridge
 
+## c++ 11/14/17/20
+
+-  https://github.com/changkun/modern-cpp-tutorial
+
 ## DesignPattern
 
+-  https://github.com/Waleon/DesignPatterns
 -  https://github.com/GoodmanTao/DesignPatternInC
 
 ## c++ & js
@@ -365,6 +370,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/juniorjacob/readwrite-kernel-stable
 -  https://github.com/mstefanowich/IsFileSigned
 -  https://github.com/apriorit/antirootkit-anti-splicer 
 -  https://github.com/Mouka-Yang/KernelDriverDemo
