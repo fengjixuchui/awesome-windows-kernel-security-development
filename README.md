@@ -89,7 +89,13 @@
 
 ## c++ 11/14/17/20
 
+-  https://github.com/xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019
+-  https://github.com/xiaoweiChen/CPP-17-STL-cookbook
 -  https://github.com/changkun/modern-cpp-tutorial
+
+## cmake
+
+-  https://github.com/xiaoweiChen/CMake-Cookbook
 
 ## DesignPattern
 
@@ -1129,6 +1135,7 @@
 
 ## windows kernel exploits
 
+-  https://github.com/SouhailHammou/Drivers (ATP bypass)
 -  https://www.unknowncheats.me/forum/anti-cheat-bypass/334557-vulnerable-driver-megathread.html?nsukey=CkSGplDUMAWaGbr8btXXDeNqNyzCau83773dZHbUgTD2KbfFsN4ReqwwjwB1TE2jjUz0HHSUQSrvX7JZ%2BtA0RPQFg5pWsGwlyCVT6EW1cF8Y%2BDfa%2Fd8KHdi%2FFG5mj6oTcKaCfR%2BQmUANoXeWHbzursQ68JQdcT5zfCKwgR7ZutAla5N%2FHH8448BpwB4nKJuBB0ns7Ex0vVB7O8j%2BkcFaug%3D%3D
 -  https://github.com/n3k/EKOParty2015_Windows_SMEP_Bypass (SEMP bypass)
 -  https://github.com/saaramar/execve_exploit (WSL)
