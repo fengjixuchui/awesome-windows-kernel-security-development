@@ -1123,6 +1123,7 @@
 
 ## windows exploits
 
+-  https://github.com/NAXG/cve_2019_0708_bluekeep_rce (RDP)
 -  https://github.com/wchen-r7/VulnCases (cases)
 -  https://github.com/rockmelodies/CVE-2019-0708-Exploit (RDP)
 -  https://github.com/admintony/svnExploit
@@ -1317,6 +1318,7 @@
 
 ## vt
 
+-  https://github.com/Kelvinhack/DeviceMon
 -  https://github.com/Kelvinhack/NoTruth
 -  https://github.com/udosteinberg/NOVA
 -  https://github.com/changeofpace/VivienneVMM (stealthy debugging framework)
@@ -2265,7 +2267,8 @@
 
 ## leaked source code 
 
--  https://github.com/misterch0c/shadowbroker  (NSA)
+-  https://github.com/cocus/openmsvbvm
+-  https://github.com/misterch0c/shadowbroker (NSA)
 -  https://github.com/pustladi/Windows-2000
 -  https://github.com/killbug2004/NT_4.0_SourceCode
 -  https://github.com/pustladi/TrueCrypt-7.2
@@ -2302,6 +2305,7 @@
 
 ## crypto api
 
+-  https://github.com/tplgy/cppcodec (c++11 base64)
 -  https://github.com/maldevel/AES256
 -  https://github.com/wbenny/mini-tor
 -  https://github.com/wyrover/CryptoAPI-examples
@@ -2366,6 +2370,8 @@
 
 ## pentest
 
+-  https://github.com/jiansiting/Kali-Windows
+-  https://github.com/uknowsec/Active-Directory-Pentest-Notes
 -  https://micro8.gitbook.io/micro8/
 -  https://github.com/aleenzz/Cobalt_Strike_wiki
 -  https://github.com/l3m0n/pentest_study
