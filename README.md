@@ -175,6 +175,7 @@
 
 ## windows system programming
 
+-  https://github.com/MFCer/AutoUpdate
 -  https://github.com/ufrisk/LeechCore (Physical Memory Acquisition Library)
 -  https://github.com/marcosd4h/sysmonx
 -  https://github.com/Dankirk/RegSLScan
@@ -830,6 +831,7 @@
 
 ## wfp
 
+-  https://github.com/guidoreina/http_inspect
 -  https://github.com/ZhanLang/netmonsys
 -  https://github.com/reinhardvz/enumwfp
 -  https://github.com/BOT-Man-JL/WFP-Traffic-Redirection-Driver
