@@ -145,6 +145,7 @@
 
 ## Shell Extension for Windows Explorer
 
+-  https://github.com/XhmikosR/perfmonbar (perfmonbar)
 -  https://github.com/abhimanyusirohi/ThumbFish (nice demo)
 -  https://github.com/matssigge/JASE
 -  https://github.com/Oeffner/MtzExtInfoTip
@@ -382,6 +383,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/alxbrn/kdmapper-1803-1903
 -  https://github.com/juniorjacob/readwrite-kernel-stable
 -  https://github.com/mstefanowich/IsFileSigned
 -  https://github.com/apriorit/antirootkit-anti-splicer 
