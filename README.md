@@ -2438,6 +2438,13 @@
 
 -  https://github.com/jackfrued/Python-100-Days
 
+## puppeteer
+
+-  https://github.com/GoogleChrome/puppeteer/blob/v1.20.0/docs/api.md
+-  https://zhaoqize.github.io/puppeteer-api-zh_CN
+-  https://github.com/csbun/thal
+-  https://www.yuque.com/imhelloworld/share-day/no8xoc
+
 ## library
 
 -  https://github.com/myfreeer/cppreference2mshelp/
