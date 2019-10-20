@@ -384,6 +384,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/vmcall/dxgkrnl_hook
 -  https://github.com/alxbrn/kdmapper-1803-1903
 -  https://github.com/juniorjacob/readwrite-kernel-stable
 -  https://github.com/mstefanowich/IsFileSigned
@@ -2445,6 +2446,7 @@
 -  https://github.com/csbun/thal
 -  https://www.yuque.com/imhelloworld/share-day/no8xoc
 -  https://blog.csdn.net/qupan1993/article/details/85371556
+-  https://www.php.cn/js-tutorial-399252.html
 
 ## library
 
