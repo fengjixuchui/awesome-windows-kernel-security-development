@@ -1094,6 +1094,7 @@
 
 ## bypass patchguard
 
+-  https://github.com/can1357/ByePg
 -  https://github.com/zzhouhe/PG1903
 -  https://github.com/9176324/Shark
 -  https://github.com/hfiref0x/UPGDSED
@@ -1249,6 +1250,7 @@
 
 ## sandbox escape
 
+-  https://github.com/ray-cp/vm-escape
 -  https://github.com/xairy/vmware-exploitation
 -  https://github.com/649/Chrome-Sandbox-Exploit
 -  https://github.com/SilverMoonSecurity/SandboxEvasion
@@ -1328,6 +1330,7 @@
 
 ## vt
 
+-  https://github.com/hrbust86/SvmNest
 -  https://github.com/Kelvinhack/DeviceMon
 -  https://github.com/Kelvinhack/NoTruth
 -  https://github.com/udosteinberg/NOVA
