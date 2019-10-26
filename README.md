@@ -1058,6 +1058,7 @@
 
 ## arktools
 
+-  https://github.com/DavidXanatos/TaskExplorer
 -  https://github.com/BlackINT3/OpenArk
 -  https://github.com/basketwill/Sysmon_reverse
 -  https://github.com/ZhuHuiBeiShaDiao/KernelHooksDetection_x64
@@ -1634,6 +1635,7 @@
 
 ## ida script & plugin
 
+-  https://github.com/mefistotelis/ida-pro-loadmap
 -  https://github.com/ampotos/dynStruct
 -  https://github.com/patois/HRDevHelper 
 -  https://github.com/0xeb/ida-qscripts (easy developing script)
@@ -1862,6 +1864,10 @@
 -  https://github.com/ExpLife/metasploit-framework
 -  https://github.com/NytroRST/NetRipper
 -  https://github.com/breenmachine/RottenPotatoNG
+
+#  shellcode generator
+
+-  https://github.com/TheWover/donut
 
 ## shellcode encoder
 
