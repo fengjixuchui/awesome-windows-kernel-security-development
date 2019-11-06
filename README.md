@@ -385,6 +385,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/0xcpu/ExecutiveCallbackObjects
 -  https://github.com/alxbrn/r6s-external-nuklear-socket
 -  https://github.com/vmcall/dxgkrnl_hook
 -  https://github.com/alxbrn/kdmapper-1803-1903
@@ -543,6 +544,7 @@
 
 ## inject technique (ring0)
 
+-  https://github.com/Mecanik/MecanikProcessBreaker
 -  https://github.com/mactec0/Kernelmode-manual-mapping-through-IAT 
 -  https://github.com/adrianyy/KeInject
 -  https://github.com/Sqdwr/LoadImageInject
