@@ -1327,6 +1327,7 @@
 
 ## windows hypervisor 
 
+-  https://github.com/FoxHex0ne/HyperViper
 -  https://github.com/comaeio/LiveCloudKd
 -  https://github.com/0vercl0k/pywinhv
 -  https://github.com/gamozolabs/falkervisor_grilled_cheese
@@ -1445,6 +1446,7 @@
 
 ## game hack
 
+-  https://github.com/vmcall/battleye_emulation
 -  https://github.com/JakeDahl/ApexStuff
 -  https://github.com/luciouskami/LOL-CN-Anti-AntCheat
 -  https://github.com/danielkrupinski/Osiris
