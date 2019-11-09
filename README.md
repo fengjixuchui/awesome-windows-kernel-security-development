@@ -1068,6 +1068,7 @@
 
 ## arktools
 
+-  https://github.com/mohuihui/antispy
 -  https://github.com/DavidXanatos/TaskExplorer
 -  https://github.com/BlackINT3/OpenArk
 -  https://github.com/basketwill/Sysmon_reverse
@@ -1344,6 +1345,8 @@
 
 ## vt
 
+-  https://github.com/stonedreamforest/Mirage
+-  https://github.com/IgorKorkin/MemoryRanger
 -  https://github.com/hrbust86/SvmNest
 -  https://github.com/Kelvinhack/DeviceMon
 -  https://github.com/Kelvinhack/NoTruth
