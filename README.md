@@ -648,6 +648,7 @@
 
 ## load Dll from memory
 
+-  https://github.com/hasherezade/module_overloading
 -  https://github.com/UserExistsError/DllLoaderShellcode
 -  https://github.com/jnastarot/native_peloader
 -  https://github.com/fancycode/MemoryModule
@@ -1957,6 +1958,7 @@
 
 ## awesome
 
+-  https://github.com/xrkk/awesome-ida
 -  https://github.com/SecWiki/sec-chart
 -  https://github.com/skywind3000/awesome-cheatsheets (cheatsheets)
 -  https://github.com/toutiaoio/awesome-architecture
