@@ -1296,6 +1296,7 @@
 
 ## cve
 
+-  https://github.com/DownWithUp/CVE-Stockpile
 -  https://github.com/badd1e/Disclosures
 -  https://github.com/Barakat/CVE-2019-16098 (LPE)
 -  https://github.com/qazbnm456/awesome-cve-poc#cve-2016-3088
@@ -2487,6 +2488,8 @@
 
 ## java
 
+-  http://www.52im.net/thread-28-1-1.html (beautyeye GUI)
+-  https://github.com/JackJiang2011/beautyeye (beautyeye GUI)
 -  https://blog.csdn.net/pinlantu/article/details/83957672
 
 ## android
