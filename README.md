@@ -912,6 +912,7 @@
 
 ## rootkits
 
+-  https://github.com/Mr-Un1k0d3r/SCShell
 -  https://github.com/realoriginal/doublepulsar-poc
 -  https://github.com/zouxianyu/PhysicalMemoryRW
 -  https://github.com/zouxianyu/KernelHiddenExecute
@@ -1348,6 +1349,7 @@
 
 ## vt
 
+-  https://github.com/eyalz800/zpp_hypervisor
 -  https://github.com/stonedreamforest/Mirage
 -  https://github.com/IgorKorkin/MemoryRanger
 -  https://github.com/hrbust86/SvmNest
