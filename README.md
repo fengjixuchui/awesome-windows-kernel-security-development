@@ -391,6 +391,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/zodiacon/windowskernelprogrammingbook (sample)
 -  https://github.com/0xcpu/ExecutiveCallbackObjects
 -  https://github.com/alxbrn/r6s-external-nuklear-socket
 -  https://github.com/vmcall/dxgkrnl_hook
@@ -1457,6 +1458,7 @@
 
 ## game hack
 
+-  https://github.com/tomLadder/Call-of-Duty-Black-Ops-III-Cheat
 -  https://github.com/vmcall/battleye_emulation
 -  https://github.com/JakeDahl/ApexStuff
 -  https://github.com/luciouskami/LOL-CN-Anti-AntCheat
@@ -2478,6 +2480,9 @@
 
 ## python
 
+-  https://github.com/wistbean/learn_python3_spider
+-  https://github.com/Kr1s77/awesome-python-login-model
+-  https://github.com/Kr1s77/Python-crawler-tutorial-starts-from-zero
 -  https://github.com/jackfrued/Python-100-Days
 
 ## puppeteer
