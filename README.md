@@ -183,6 +183,7 @@
 
 ## windows system programming
 
+-  https://github.com/btbd/access (Access without a real handle)
 -  https://github.com/CoatiSoftware/Sourcetrail (Source code explorer)
 -  https://github.com/DoubleLabyrinth/WindowsSudo
 -  https://github.com/AzureGreen/NetView
@@ -391,6 +392,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/G4rb3n/Windows-Driver
 -  https://github.com/btbd/wpp (Intercepting DeviceControl via WPP)
 -  https://github.com/maharmstone/smbfs (SMB filesystem driver for Windows)
 -  https://github.com/maharmstone/btrfs (Windows driver for the next-generation Linux filesystem Btrfs)
@@ -806,6 +808,7 @@
 
 ## anti Ransomware
 
+-  https://github.com/NtRaiseHardError/Antimalware-Research
 -  https://github.com/clavis0x/AntiRansomware
 -  https://github.com/DecryptoniteTeam/Decryptonite
 -  https://github.com/ofercas/ransomware_begone
@@ -1062,6 +1065,8 @@
 
 ## malware analysis
 
+-  https://github.com/G4rb3n/Malware-Killer
+-  https://github.com/G4rb3n/Malware-Picture
 -  https://github.com/a232319779/mmdt
 -  https://github.com/Formyown/Alesense-Antivirus (nice demo)
 -  https://github.com/ctxis/capemon (Config And Payload Extraction)
