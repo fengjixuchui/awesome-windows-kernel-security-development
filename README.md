@@ -391,6 +391,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/btbd/wpp (Intercepting DeviceControl via WPP)
 -  https://github.com/maharmstone/smbfs (SMB filesystem driver for Windows)
 -  https://github.com/maharmstone/btrfs (Windows driver for the next-generation Linux filesystem Btrfs)
 -  https://github.com/zodiacon/windowskernelprogrammingbook (sample)
@@ -493,9 +494,14 @@
 -  https://github.com/mgeeky/prc_xchk
 -  https://github.com/tinysec/iathook
 
+## InfinityHook
+
+-  https://yanjuan.xyz/2019/08/syscallhook/
+-  https://github.com/huoji120/huoji_debuger
+-  https://github.com/everdox/InfinityHook
+
 ## inline hook
 
--  https://github.com/everdox/InfinityHook (Hook system calls, context switches, page faults)
 -  https://github.com/adrianyy/kernelhook
 -  https://github.com/gfreivasc/VMTHook
 -  https://github.com/zhipeng515/MemberFunctionHook （member function hook）
@@ -1301,6 +1307,7 @@
 
 ## cve
 
+-  https://github.com/apt69/COMahawk
 -  https://github.com/DownWithUp/CVE-Stockpile
 -  https://github.com/badd1e/Disclosures
 -  https://github.com/Barakat/CVE-2019-16098 (LPE)
@@ -1403,6 +1410,7 @@
 
 ## fuzzer
 
+-  https://github.com/FoxHex0ne/Silfen
 -  https://bbs.pediy.com/thread-255544.htm
 -  https://bbs.pediy.com/thread-255162.htm (winafl)
 -  https://github.com/bin2415/fuzzing_paper
