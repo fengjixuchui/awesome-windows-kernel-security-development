@@ -1989,6 +1989,7 @@
 
 ## awesome
 
+-  https://github.com/theLSA/CS-checklist
 -  https://github.com/wcventure/FuzzingPaper
 -  https://github.com/wcventure/BugDetectionPaper
 -  https://github.com/xrkk/awesome-ida
@@ -2453,6 +2454,7 @@
 
 ## ctf
 
+-  https://github.com/boogy/ctfbox
 -  https://github.com/Ignitetechnologies/Privilege-Escalation
 -  https://github.com/ktecv2000/How-to-play-CTF
 
