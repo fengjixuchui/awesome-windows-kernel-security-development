@@ -559,6 +559,7 @@
 
 ## anti hook
 
+-  https://github.com/outflanknl/Dumpert
 -  https://github.com/nickcano/ReloadLibrary
 
 ## inject technique (ring0)
@@ -992,6 +993,7 @@
 
 ## uefi/smm
 
+-  https://github.com/SunnyKi/bareBoot
 -  https://github.com/DeviceObject/Uefi_HelloWorld
 -  https://github.com/LongSoft/UEFITool
 -  https://github.com/dude719/UEFI-Bootkit
@@ -1094,6 +1096,7 @@
 
 ## arktools
 
+-  https://github.com/weixu8/pcmonitor (kpolarssl)
 -  https://github.com/mohuihui/antispy
 -  https://github.com/DavidXanatos/TaskExplorer
 -  https://github.com/BlackINT3/OpenArk
