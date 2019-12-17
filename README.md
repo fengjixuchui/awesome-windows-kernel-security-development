@@ -1044,6 +1044,7 @@
 
 ## malware
 
+-  https://github.com/rokups/virtual-reality (backdoor)
 -  https://github.com/InQuest/malware-samples
 -  https://github.com/mstfknn/malware-sample-library
 -  https://github.com/Darkabode/possessor
@@ -1443,6 +1444,7 @@
 
 ## fuzzer
 
+-  https://github.com/uds-se/fuzzingbook
 -  https://github.com/wcventure/WasmFuzz
 -  https://github.com/wcventure/FuzzingPaper (paper)
 -  https://github.com/FoxHex0ne/Silfen
