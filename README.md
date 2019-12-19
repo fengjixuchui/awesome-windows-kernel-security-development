@@ -585,6 +585,7 @@
 
 ## inject technique (ring3)
 
+-  https://github.com/theevilbit/injection
 -  https://github.com/SafeBreach-Labs/pinjectra
 -  https://github.com/odzhan/injection
 -  https://github.com/M-r-J-o-h-n/SWH-Injector
@@ -1309,6 +1310,7 @@
 
 ## sandbox
 
+-  https://github.com/Cisco-Talos/pyrebox
 -  https://github.com/taiFansou/Proteibox
 
 ## sandbox escape
@@ -2575,6 +2577,7 @@
 
 ## android reverse engine
 
+-  https://github.com/r0ysue/AndroidSecurityStudy
 -  https://github.com/JesusFreke/smali
 -  https://bitbucket.org/JesusFreke/smali
 -  https://github.com/pxb1988/dex2jar
