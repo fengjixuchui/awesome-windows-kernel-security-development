@@ -189,6 +189,7 @@
 
 ## windows system programming
 
+-  https://github.com/nccgroup/WindowsJobLock (Windows Process Lockdown Tool using Job Objects)
 -  https://github.com/long123king/TokenInsight
 -  https://github.com/btbd/access (Access without a real handle)
 -  https://github.com/CoatiSoftware/Sourcetrail (Source code explorer)
@@ -1107,6 +1108,7 @@
 
 ## av evasion
 
+-  https://github.com/TideSec/BypassAntiVirus
 -  https://github.com/jthuraisamy/SysWhispers
 -  https://github.com/huoji120/Antivirus_R3_bypass_demo
 -  https://github.com/paranoidninja/CarbonCopy
@@ -2024,6 +2026,7 @@
 
 ## awesome
 
+-  https://github.com/enovella/TEE-reversing
 -  https://github.com/1c7/chinese-independent-developer
 -  https://github.com/theLSA/CS-checklist
 -  https://github.com/wcventure/FuzzingPaper
