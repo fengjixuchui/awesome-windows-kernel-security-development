@@ -860,7 +860,8 @@
 -  https://github.com/AnwarMohamed/Packetyzer
 
 ## afd
- 
+
+-  https://github.com/batteryshark/AfdProxy
 -  https://github.com/xiaomagexiao/GameDll 
 -  https://github.com/DeDf/afd
 -  https://github.com/a252293079/NProxy
@@ -2144,6 +2145,7 @@
 
 ## apt
 
+-  https://github.com/RedDrip7/APT_Digital_Weapon
 -  https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections
 -  https://github.com/kbandla/APTnotes
 -  https://attack.mitre.org/wiki/Groups
