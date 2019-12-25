@@ -190,6 +190,7 @@
 
 ## windows system programming
 
+-  https://github.com/K0rz3n/PatchesTester (check system patch info)
 -  https://github.com/nccgroup/WindowsJobLock (Windows Process Lockdown Tool using Job Objects)
 -  https://github.com/long123king/TokenInsight
 -  https://github.com/btbd/access (Access without a real handle)
@@ -1456,6 +1457,7 @@
 
 ## fuzzer
 
+-  https://github.com/zhunki/Superion
 -  https://github.com/uds-se/fuzzingbook
 -  https://github.com/wcventure/WasmFuzz
 -  https://github.com/wcventure/FuzzingPaper (paper)
@@ -1517,6 +1519,7 @@
 
 ## game hack
 
+-  https://github.com/CasualX/apexbot
 -  https://github.com/tomLadder/Call-of-Duty-Black-Ops-III-Cheat
 -  https://github.com/vmcall/battleye_emulation
 -  https://github.com/JakeDahl/ApexStuff
