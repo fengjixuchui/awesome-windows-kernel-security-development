@@ -582,6 +582,7 @@
 
 ## inject technique (ring0)
 
+-  https://github.com/btbd/modmap 
 -  https://github.com/Mecanik/MecanikProcessBreaker
 -  https://github.com/mactec0/Kernelmode-manual-mapping-through-IAT 
 -  https://github.com/adrianyy/KeInject
@@ -592,6 +593,7 @@
 
 ## inject technique (ring3)
 
+-  https://github.com/antonioCoco/Mapping-Injection (MapViewOfFile2)
 -  https://github.com/theevilbit/injection
 -  https://github.com/SafeBreach-Labs/pinjectra
 -  https://github.com/odzhan/injection
