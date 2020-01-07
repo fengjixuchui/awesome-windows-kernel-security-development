@@ -190,6 +190,7 @@
 
 ## windows system programming
 
+-  https://github.com/hynninen/win-pbkdf2 
 -  https://github.com/K0rz3n/PatchesTester (check system patch info)
 -  https://github.com/nccgroup/WindowsJobLock (Windows Process Lockdown Tool using Job Objects)
 -  https://github.com/long123king/TokenInsight
@@ -2042,6 +2043,7 @@
 
 ## awesome
 
+-  https://github.com/alphaSeclab/awesome-reverse-engineering
 -  https://github.com/enovella/TEE-reversing
 -  https://github.com/1c7/chinese-independent-developer
 -  https://github.com/theLSA/CS-checklist
