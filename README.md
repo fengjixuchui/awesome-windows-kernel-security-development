@@ -1169,6 +1169,7 @@
 
 ## bypass patchguard
 
+-  https://github.com/zhuhuibeishadiao/PatchGuardResearch
 -  https://github.com/can1357/ByePg
 -  https://github.com/zzhouhe/PG1903
 -  https://github.com/9176324/Shark
@@ -1419,6 +1420,7 @@
 
 ## vt
 
+-  https://github.com/chillancezen/ZeldaOS.x86_64
 -  https://github.com/9176324/Daat
 -  https://github.com/eyalz800/zpp_hypervisor
 -  https://github.com/stonedreamforest/Mirage
