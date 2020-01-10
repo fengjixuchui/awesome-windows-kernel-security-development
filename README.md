@@ -1123,6 +1123,7 @@
 
 ## av evasion
 
+-  https://github.com/nccgroup/Winpayloads
 -  https://github.com/TideSec/BypassAntiVirus
 -  https://github.com/jthuraisamy/SysWhispers
 -  https://github.com/huoji120/Antivirus_R3_bypass_demo
@@ -1472,6 +1473,7 @@
 
 ## fuzzer
 
+-  https://github.com/vanhauser-thc/AFLplusplus (AFLPlusPlus) 
 -  https://github.com/zhunki/Superion
 -  https://github.com/uds-se/fuzzingbook
 -  https://github.com/wcventure/WasmFuzz
@@ -1534,6 +1536,7 @@
 
 ## game hack
 
+-  https://github.com/huoji120/apex_full_cheat
 -  https://github.com/CasualX/apexbot
 -  https://github.com/tomLadder/Call-of-Duty-Black-Ops-III-Cheat
 -  https://github.com/vmcall/battleye_emulation
@@ -1597,6 +1600,7 @@
 
 ## anti cheat
 
+-  https://github.com/huoji120/CSGO_CrowAntiCheat
 -  https://github.com/niemand-sec/Reversing-XignCode3-Driver
 -  https://github.com/niemand-sec/AntiCheat-Testing-Framework
 -  https://github.com/GravitLauncher/Avanguard
@@ -1644,6 +1648,7 @@
 
 ## pin
 
+-  https://github.com/season-lab/bluepill/
 -  https://github.com/long123king/PE-Replay
 -  https://github.com/Fare9/ANBU
 -  https://github.com/BreakingMalware/Selfie
