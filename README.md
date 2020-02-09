@@ -2628,6 +2628,7 @@
 ## android
 
 -  https://blog.csdn.net/aqi00/article/details/50012511
+-  https://github.com/xuexiangjys/XUI (UI)
 
 ## android reverse engine
 
@@ -2639,6 +2640,10 @@
 -  https://github.com/skylot/jadx
 -  https://github.com/Konloch/bytecode-viewer
 -  https://github.com/MobSF/Mobile-Security-Framework-MobSF
+
+## xposed
+
+-  https://github.com/fatal0/XVoiceChanger
 
 ## library
 
