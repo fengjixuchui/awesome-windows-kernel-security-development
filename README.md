@@ -1671,6 +1671,7 @@
 
 ## pin
 
+-  https://github.com/thalium/icebox
 -  https://github.com/season-lab/bluepill/
 -  https://github.com/long123king/PE-Replay
 -  https://github.com/Fare9/ANBU
@@ -1806,6 +1807,7 @@
 
 ## idapython
 
+-  https://github.com/thalium/idatag  
 -  https://github.com/sophoslabs/WebAssembly
 -  https://github.com/howmp/COMFinder
 -  https://github.com/maddiestone/IDAPythonEmbeddedToolkit
@@ -2592,6 +2594,14 @@
 -  http://www.kahusecurity.com/2011/javascript-deobfucation-tools-part-2/
 -  http://deobfuscatejavascript.com/
 -  http://js.pnote.net/#/js
+
+## js reverse engine
+
+-  https://blog.csdn.net/weixin_43189702/article/details/103171967
+-  https://github.com/xianyucoder/Crack-JS
+-  https://github.com/freedom-wy/js-reverse
+-  https://github.com/maxnoodles/js_decrypt
+-  https://github.com/DingZaiHub/PythonSpider
 
 ## decompiler
 
