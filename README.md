@@ -1023,6 +1023,7 @@
 
 ## bootkits
 
+-  https://github.com/btbd/umap
 -  https://github.com/DeviceObject/rk2017
 -  https://github.com/DeviceObject/ChangeDiskSector
 -  https://github.com/DeviceObject/Uefi_HelloWorld
@@ -1320,6 +1321,10 @@
 -  https://github.com/weizn11/MS17010_AllInOne
 -  https://github.com/TeskeVirtualSystem/MS17010Test
 
+## race condition
+
+-  https://github.com/0xcpu/dijuno
+
 ## LPE
 
 -  https://github.com/yusufqk/SystemToken
@@ -1561,6 +1566,8 @@
 
 ## game hack
 
+-  https://github.com/Joona70/fortnite-cheat-source-public
+-  https://github.com/qofeharaf/IGodsEye
 -  https://github.com/Wando1423/Antario
 -  https://github.com/zH4x/SoT-DLL (esp)
 -  https://github.com/huoji120/apex_full_cheat
