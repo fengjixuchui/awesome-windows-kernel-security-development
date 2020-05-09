@@ -139,6 +139,13 @@
 -  https://github.com/wanttobeno/Study_FindPicAlgorithm (find picture algorithm)
 -  https://github.com/wanttobeno/Window_GlassIntro_demo
 
+## QT
+
+-  https://github.com/feiyangqingyun/qucsdk
+-  https://github.com/feiyangqingyun/QWidgetDemo
+-  https://github.com/feiyangqingyun/qtkaifajingyan
+-  https://github.com/feiyangqingyun/QWidgetExe
+
 ## computer vision & machine learning
 
 -  https://github.com/wanttobeno/sod
@@ -1328,6 +1335,7 @@
 
 ## LPE
 
+-  https://github.com/itm4n/PrintSpoofer
 -  https://github.com/yusufqk/SystemToken
 -  https://github.com/itm4n/UsoDllLoader
 -  https://github.com/DoubleLabyrinth/SdoKeyCrypt-sys-local-privilege-elevation
@@ -1567,6 +1575,7 @@
 
 ## game hack
 
+-  https://github.com/Vaseliinikives/Fortnite-External
 -  https://github.com/Joona70/fortnite-cheat-source-public
 -  https://github.com/qofeharaf/IGodsEye
 -  https://github.com/Wando1423/Antario
@@ -2089,6 +2098,7 @@
 
 ## awesome
 
+-  https://github.com/kevingo/coding-interview-university-zh-tw/blob/master/translations/README-cn.md
 -  https://websec.readthedocs.io/zh/latest/ (web sec)
 -  https://ctf-wiki.github.io/ctf-wiki/pwn/readme-zh/
 -  https://chybeta.github.io/2017/08/19/Software-Security-Learning/
@@ -2690,6 +2700,7 @@
 -  https://github.com/xuexiangjys/XUpdate (Update)
 -  https://github.com/onestravel/playSound (fmod)
 -  https://github.com/onestravel/QQVoiceChange (fmod)
+-  https://github.com/virjar/zelda
 
 ## android reverse engine
 
