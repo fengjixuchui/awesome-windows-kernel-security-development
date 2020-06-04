@@ -1401,6 +1401,7 @@
 
 ## cve
 
+-  https://github.com/DownWithUp/CVE-Stockpile
 -  https://github.com/ollypwn/CVE-2020-0601
 -  https://github.com/bluefrostsecurity/CVE-2019-1215 (LPE)
 -  https://github.com/apt69/COMahawk
@@ -1576,6 +1577,7 @@
 
 ## game hack
 
+-  https://github.com/NMan1/Internal-Rainbow-Six-Cheat
 -  https://github.com/Vaseliinikives/Fortnite-External
 -  https://github.com/Joona70/fortnite-cheat-source-public
 -  https://github.com/qofeharaf/IGodsEye
@@ -1715,6 +1717,7 @@
 
 ## deobfuscation
 
+-  https://github.com/zodiacddos/BattleEye-EasyAntiCheat-Bypasses
 -  https://github.com/amimo/ollvm-breaker
 -  https://github.com/JonathanSalwan/Tigress_protection
 -  https://github.com/1111joe1111/tuts (vmprotect 3+)
