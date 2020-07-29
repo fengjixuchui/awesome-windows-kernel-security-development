@@ -94,6 +94,10 @@
 
 -  https://github.com/JimmyHHua/opencv_tutorials
 
+## bass
+
+-  https://github.com/r10s/BASS_VST
+
 ## lua
 
 -  https://github.com/vinniefalco/LuaBridge
@@ -197,6 +201,7 @@
 
 ## windows system programming
 
+-  https://github.com/progmboy/openprocmon (procmon)
 -  https://github.com/ezrealik/AI-Icarus (AI iflytek SDK)
 -  http://rufus.ie/ (Create bootable USB drives the easy way)
 -  https://github.com/emmanuel-marty/em_inflate (Fast, small, in-memory inflate (zlib, deflate and gzip decompression))
@@ -611,6 +616,7 @@
 -  https://github.com/haidragon/NewInjectDrv
 -  https://github.com/alex9191/Kernel-dll-injector (DllInjectFromKernel)
 -  https://github.com/wbenny/keinject (ApcInjectFromKernel)
+-  https://github.com/repnz/apc-research (APC)
 
 ## inject technique (ring3)
 
@@ -790,6 +796,7 @@
 
 ## callback
 
+-  https://github.com/fdiskyou/windows-ps-callbacks-experiments
 -  https://github.com/maxkray13/Cvc (Communication via callback)
 -  https://github.com/socjordi/sauron
 -  https://github.com/OSRDrivers/kmexts (callbacks)
@@ -981,6 +988,7 @@
 
 ## rootkits
 
+-  https://github.com/thesecretclub/window_hijack
 -  https://github.com/Mr-Un1k0d3r/SCShell
 -  https://github.com/realoriginal/doublepulsar-poc
 -  https://github.com/zouxianyu/PhysicalMemoryRW
@@ -1257,6 +1265,8 @@
 
 ## windows kernel exploits
 
+-  https://github.com/bluefrostsecurity/Meltdown-KVA-Shadow-Leak (Meltdown Reloaded: Breaking Windows KASLR by Leaking KVA Shadow Mappings)
+-  https://github.com/synacktiv/Windows-kernel-SegmentHeap-Aligned-Chunk-Confusion
 -  https://github.com/gdabah/win32k-bugs 
 -  https://github.com/SouhailHammou/Drivers (ATP bypass)
 -  https://www.unknowncheats.me/forum/anti-cheat-bypass/334557-vulnerable-driver-megathread.html?nsukey=CkSGplDUMAWaGbr8btXXDeNqNyzCau83773dZHbUgTD2KbfFsN4ReqwwjwB1TE2jjUz0HHSUQSrvX7JZ%2BtA0RPQFg5pWsGwlyCVT6EW1cF8Y%2BDfa%2Fd8KHdi%2FFG5mj6oTcKaCfR%2BQmUANoXeWHbzursQ68JQdcT5zfCKwgR7ZutAla5N%2FHH8448BpwB4nKJuBB0ns7Ex0vVB7O8j%2BkcFaug%3D%3D
@@ -1578,6 +1588,7 @@
 
 ## game hack
 
+-  https://github.com/FiYHer/How-to-create-a-csgo-cheating-program 
 -  https://github.com/NMan1/Internal-Rainbow-Six-Cheat
 -  https://github.com/Vaseliinikives/Fortnite-External
 -  https://github.com/Joona70/fortnite-cheat-source-public
@@ -1648,6 +1659,7 @@
 
 ## anti cheat
 
+-  https://github.com/thesecretclub/CVEAC-2020
 -  https://github.com/huoji120/CSGO_CrowAntiCheat
 -  https://github.com/niemand-sec/Reversing-XignCode3-Driver
 -  https://github.com/niemand-sec/AntiCheat-Testing-Framework
@@ -1833,6 +1845,8 @@
 
 ## idapython
 
+-  https://github.com/Chordp/PatternGen (Pattern)
+-  https://github.com/inforion/idapython-cheatsheet
 -  https://github.com/thalium/idatag  
 -  https://github.com/sophoslabs/WebAssembly
 -  https://github.com/howmp/COMFinder
@@ -2032,6 +2046,7 @@
 
 #  shellcode generator
 
+-  https://github.com/DownWithUp/DynamicKernelShellcode
 -  https://github.com/TheWover/donut
 
 ## shellcode encoder
