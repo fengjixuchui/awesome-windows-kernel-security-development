@@ -73,6 +73,7 @@
 
 ## cef
 
+-  https://github.com/JelinYao/MyChrome
 -  https://github.com/fanfeilong/cefutil
 -  https://github.com/acristoffers/CEF3SimpleSample
 -  https://github.com/sanwer/Browser
@@ -423,6 +424,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/DownWithUp/CallMon
 -  https://github.com/BadPlayer555/KernelGDIDraw (GDI)
 -  https://github.com/alxbrn/km-um-communication
 -  https://github.com/DavidXanatos/IgnoreACLs
@@ -1467,6 +1469,8 @@
 
 ## vt
 
+-  https://github.com/hvmi/hvmi
+-  https://github.com/napocahv/napoca
 -  https://github.com/SinaKarvandi/HyperDbg
 -  https://github.com/jonomango/mango-library (🥭windows memory library aimed towards game hacking)
 -  https://github.com/chillancezen/ZeldaOS.x86_64
@@ -1521,6 +1525,7 @@
 
 ## fuzzer
 
+-  https://github.com/strongcourage/uafuzz
 -  https://github.com/HyperDbg/HyperDbg (An x86-64 VT-x based Windows Debugger)
 -  https://www.youtube.com/user/gamozolabs/videos (great fuzz courses)
 -  https://github.com/aflsmart/aflsmart
@@ -1588,6 +1593,7 @@
 
 ## game hack
 
+-  https://github.com/NMan1/Rainbow-Six-Cheat
 -  https://github.com/FiYHer/How-to-create-a-csgo-cheating-program 
 -  https://github.com/NMan1/Internal-Rainbow-Six-Cheat
 -  https://github.com/Vaseliinikives/Fortnite-External
@@ -2118,6 +2124,8 @@
 
 ## awesome
 
+-  https://github.com/Wenzel/awesome-virtualization
+-  https://github.com/alphaSeclab/anti-av
 -  https://github.com/kevingo/coding-interview-university-zh-tw/blob/master/translations/README-cn.md
 -  https://websec.readthedocs.io/zh/latest/ (web sec)
 -  https://ctf-wiki.github.io/ctf-wiki/pwn/readme-zh/
@@ -2295,6 +2303,7 @@
 
 ## miscellaneous
 
+-  https://github.com/forrest-orr/artifacts-kit
 -  https://github.com/sailay1996/awesome_windows_logical_bugs
 -  https://github.com/rabbitstack/fibratus (https://github.com/rabbitstack/fibratus)
 -  https://github.com/theopolis/uefi-firmware-parser
@@ -2669,6 +2678,10 @@
 -  https://github.com/Kr1s77/Python-crawler-tutorial-starts-from-zero
 -  https://github.com/jackfrued/Python-100-Days
 
+## golang
+
+-  https://github.com/yifengyou/Golang-100-Days
+
 ## puppeteer
 
 -  https://github.com/GoogleChrome/puppeteer/blob/v1.20.0/docs/api.md
@@ -2724,6 +2737,7 @@
 
 ## android reverse engine
 
+-  https://github.com/zhangke3016/VirtualUETool
 -  https://github.com/r0ysue/AndroidSecurityStudy
 -  https://github.com/JesusFreke/smali
 -  https://bitbucket.org/JesusFreke/smali
