@@ -40,6 +40,7 @@
     
 ## direct ui
 
+-  https://github.com/caozhiyi/DuiLib_c
 -  http://www.skinui.cn/
 -  https://www.showdoc.cc/skinui?page_id=135303
 -  http://help.5yyz.com/665984 
@@ -1527,6 +1528,7 @@
 
 ## fuzzer
 
+-  https://github.com/math1as/Windows-GDI-fuzzer
 -  https://github.com/strongcourage/uafuzz
 -  https://github.com/HyperDbg/HyperDbg (An x86-64 VT-x based Windows Debugger)
 -  https://www.youtube.com/user/gamozolabs/videos (great fuzz courses)
@@ -1595,6 +1597,7 @@
 
 ## game hack
 
+-  https://github.com/mq1n/BadEye (BattlEye)
 -  https://github.com/NMan1/Rainbow-Six-Cheat
 -  https://github.com/FiYHer/How-to-create-a-csgo-cheating-program 
 -  https://github.com/NMan1/Internal-Rainbow-Six-Cheat
@@ -1667,6 +1670,7 @@
 
 ## anti cheat
 
+-  https://github.com/zyhp/vac3_inhibitor
 -  https://github.com/thesecretclub/CVEAC-2020
 -  https://github.com/huoji120/CSGO_CrowAntiCheat
 -  https://github.com/niemand-sec/Reversing-XignCode3-Driver
@@ -2200,6 +2204,7 @@
 
 ## vm
 
+-  https://github.com/can1357/NoVmp
 -  https://github.com/etsubu/NanoVM (x64)
 -  https://github.com/tboox/vm86
 
@@ -2209,6 +2214,7 @@
 
 ## pe tool
 
+-  https://github.com/jovibor/Pepper
 -  https://github.com/Darkabode/amte
 -  https://www.pelock.com/products/string-encrypt
 -  https://www.pelock.com/products/obfuscator
