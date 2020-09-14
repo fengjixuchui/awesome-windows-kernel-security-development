@@ -425,6 +425,7 @@
 
 ## windows kernel driver
 
+-  https://github.com/mrexodia/NtPhp (Php in kernel)
 -  https://github.com/DownWithUp/CallMon
 -  https://github.com/BadPlayer555/KernelGDIDraw (GDI)
 -  https://github.com/alxbrn/km-um-communication
@@ -512,6 +513,8 @@
 
 ## ssdt hook
 
+-  https://github.com/crvvdev/MasterHide (x64)
+-  https://github.com/iPower/KasperskyHook
 -  https://github.com/Sqdwr/64-bits-inserthook
 -  https://github.com/int0/ProcessIsolator
 -  https://github.com/mrexodia/TitanHide (x64dbg Plugin)-(DragonQuestHero Suggest)
@@ -926,6 +929,7 @@
 
 ## wfp
 
+-  https://github.com/jellever/StreamDivert
 -  https://github.com/gifur/NetworkMnt
 -  https://github.com/guidoreina/http_inspect
 -  https://github.com/ZhanLang/netmonsys
@@ -992,6 +996,7 @@
 
 ## rootkits
 
+-  https://github.com/bytecode77/living-off-the-land (fileless)
 -  https://github.com/D4stiny/spectre
 -  https://github.com/thesecretclub/window_hijack
 -  https://github.com/Mr-Un1k0d3r/SCShell
@@ -1472,6 +1477,7 @@
 
 ## vt
 
+-  https://github.com/kukrimate/grr
 -  https://github.com/hvmi/hvmi
 -  https://github.com/napocahv/napoca
 -  https://github.com/SinaKarvandi/HyperDbg
@@ -1597,6 +1603,9 @@
 
 ## game hack
 
+-  https://github.com/Aki2k/BEDaisy(battleyes kernel driver)
+-  https://github.com/nbqofficial/kernel-csgo (csgo)
+-  https://www.youtube.com/playlist?list=PL8TEddGT5w_j80QNqkFwl3stUTxlHol_h (LOL)
 -  https://github.com/mq1n/BadEye (BattlEye)
 -  https://github.com/NMan1/Rainbow-Six-Cheat
 -  https://github.com/FiYHer/How-to-create-a-csgo-cheating-program 
@@ -1853,6 +1862,7 @@
 
 ## ida sig maker
 
+-  https://github.com/wanttobeno/IDASignMaker
 -  https://blog.csdn.net/lixiangminghate/article/details/81352205
 
 ## idapython
@@ -2130,6 +2140,7 @@
 
 ## awesome
 
+-  https://github.com/FULLSHADE/WindowsExploitationResources
 -  https://github.com/Wenzel/awesome-virtualization
 -  https://github.com/alphaSeclab/anti-av
 -  https://github.com/kevingo/coding-interview-university-zh-tw/blob/master/translations/README-cn.md
