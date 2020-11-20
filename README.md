@@ -203,6 +203,7 @@
 
 ## windows system programming
 
+-  https://github.com/solemnwarning/rehex (hex editor)
 -  https://github.com/progmboy/openprocmon (procmon)
 -  https://github.com/ezrealik/AI-Icarus (AI iflytek SDK)
 -  http://rufus.ie/ (Create bootable USB drives the easy way)
@@ -425,6 +426,8 @@
 
 ## windows kernel driver
 
+-  https://github.com/yardenshafir/DpcWait (DPC)
+-  https://github.com/can1357/NtLua (Lua in kernel)
 -  https://github.com/mrexodia/NtPhp (Php in kernel)
 -  https://github.com/DownWithUp/CallMon
 -  https://github.com/BadPlayer555/KernelGDIDraw (GDI)
@@ -529,6 +532,7 @@
     
 ## eat/iat/object/irp/iat hook
 
+-  https://github.com/jguo52/IOCTL-hook
 -  https://github.com/hugsy/CFB (Irp Hook)
 -  https://github.com/Rat431/ColdKernel_KUSER
 -  https://github.com/hasherezade/IAT_patcher
@@ -614,6 +618,8 @@
 
 ## inject technique (ring0)
 
+-  https://github.com/Vicshann/GInjer
+-  https://github.com/r1cky33/Basic-GUI-Loader
 -  https://github.com/alxbrn/kernel-injector
 -  https://github.com/btbd/modmap 
 -  https://github.com/Mecanik/MecanikProcessBreaker
@@ -803,6 +809,7 @@
 
 ## callback
 
+-  https://github.com/Vicshann/PEProtectDrv
 -  https://github.com/fdiskyou/windows-ps-callbacks-experiments
 -  https://github.com/maxkray13/Cvc (Communication via callback)
 -  https://github.com/socjordi/sauron
@@ -996,6 +1003,7 @@
 
 ## rootkits
 
+-  https://github.com/jguo52/NtCompareSigningLevel-hook (NtCompareSigningLevels)
 -  https://github.com/bytecode77/living-off-the-land (fileless)
 -  https://github.com/D4stiny/spectre
 -  https://github.com/thesecretclub/window_hijack
@@ -1103,6 +1111,7 @@
 
 ## malware
 
+-  https://github.com/Freakboy/CobaltStrike
 -  https://github.com/vxunderground/Vx-Engines
 -  https://github.com/rokups/virtual-reality (backdoor)
 -  https://github.com/InQuest/malware-samples
@@ -1213,6 +1222,12 @@
 -  https://github.com/lj1987new/guardlite
 -  https://github.com/hackshields/antivirus/
 -  https://github.com/AntiRootkit/BDArkit
+
+# EDR
+
+-  https://github.com/jthuraisamy/TelemetrySourcerer
+-  https://github.com/ION28/BLUESPAWN
+-  https://github.com/ComodoSecurity/openedr
 
 ## bypass patchguard
 
@@ -1421,6 +1436,8 @@
 
 ## cve
 
+-  https://github.com/ioncodes/CVE-2020-16938
+-  https://github.com/Ascotbe/Kernelhub
 -  https://github.com/DownWithUp/CVE-Stockpile
 -  https://github.com/ollypwn/CVE-2020-0601
 -  https://github.com/bluefrostsecurity/CVE-2019-1215 (LPE)
@@ -1477,6 +1494,7 @@
 
 ## vt
 
+-  https://github.com/cyberus-technology/hedron.git
 -  https://github.com/kukrimate/grr
 -  https://github.com/hvmi/hvmi
 -  https://github.com/napocahv/napoca
@@ -1603,6 +1621,7 @@
 
 ## game hack
 
+-  https://github.com/Speedi13/ROP-COMPILER (VAC / PB)
 -  https://github.com/Aki2k/BEDaisy(battleyes kernel driver)
 -  https://github.com/nbqofficial/kernel-csgo (csgo)
 -  https://www.youtube.com/playlist?list=PL8TEddGT5w_j80QNqkFwl3stUTxlHol_h (LOL)
@@ -1709,6 +1728,7 @@
 
 ## pe protector
 
+-  https://github.com/TimelifeCzy/Shell_Protect (vm)
 -  https://github.com/93aef0ce4dd141ece6f5/Packer
 -  https://github.com/devilogic/xvirus
 -  https://github.com/nickcano/RelocBonus 
@@ -1807,6 +1827,8 @@
 
 ## windbg plugin
 
+- https://github.com/0cch/luadbg (lua ext)
+- https://github.com/repnz/windbg-cheat-sheet
 - https://github.com/long123king/tokenext
 - https://github.com/long123king/grep (regular expression)
 - https://github.com/fdiskyou/iris
@@ -1984,7 +2006,7 @@
 -  http://codegist.net/code/idapython-script/
 -  https://reverseengineering.stackexchange.com/questions/16055/idapython-get-xrefs-to-a-stack-variable
 
-## pykd
+## pykd & FAQ
 
 -  https://github.com/sogeti-esec-lab/LKD
 -  https://www.anquanke.com/post/id/86909
@@ -2015,6 +2037,7 @@
 -  http://theevilbit.blogspot.com/2017/09/windows-kernel-pool-spraying-fun-part-2.html
 -  http://theevilbit.blogspot.com/2017/09/windows-kernel-pool-spraying-fun-part-3.html
 -  http://theevilbit.blogspot.com/2017/09/windows-kernel-pool-spraying-fun-part-4.html
+-  https://githomelab.ru/pykd/pykd/-/issues/3
 
 ## rpc
 
@@ -2085,6 +2108,7 @@
 
 ## http
 
+-  https://github.com/elnormous/HTTPRequest
 -  https://github.com/vlinhd11/WinHttpClass
 -  https://github.com/hpsocket/restclient-cpp
 -  https://github.com/farawaaay/http2 (http/2)
@@ -2268,6 +2292,7 @@
 
 ## apt
 
+-  https://github.com/Yeti-791/APT-Guide
 -  https://github.com/RedDrip7/APT_Digital_Weapon
 -  https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections
 -  https://github.com/kbandla/APTnotes
@@ -2317,6 +2342,9 @@
 
 ## bypass uac
 
+-  https://github.com/AzAgarampur/byeintegrity3-uac
+-  https://github.com/AzAgarampur/byeintegrity2-uac
+-  https://github.com/AzAgarampur/byeintegrity-uac
 -  https://github.com/sailay1996/UAC_Bypass_In_The_Wild
 -  https://github.com/hfiref0x/UACME
 
@@ -2632,6 +2660,9 @@
 
 ## pentest
 
+-  https://github.com/hudunkey/Red-Team-links
+-  https://github.com/xiaoy-sec/Pentest_Note
+-  https://github.com/taielab/Taie-Bugbounty-killer
 -  https://github.com/Dm2333/ATTCK-PenTester-Book
 -  https://github.com/hongriSec/Web-Security-Attack
 -  https://github.com/jiansiting/Kali-Windows
@@ -2756,6 +2787,7 @@
 
 ## android reverse engine
 
+-  https://github.com/Efaker/FakerAndroid
 -  https://github.com/zhangke3016/VirtualUETool
 -  https://github.com/r0ysue/AndroidSecurityStudy
 -  https://github.com/JesusFreke/smali
