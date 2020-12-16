@@ -633,6 +633,7 @@
 
 ## inject technique (ring3)
 
+-  https://github.com/Broihon/GH-Injector-Library
 -  https://github.com/antonioCoco/Mapping-Injection (MapViewOfFile2)
 -  https://github.com/theevilbit/injection
 -  https://github.com/SafeBreach-Labs/pinjectra
@@ -794,6 +795,7 @@
 
 ## load driver from memory
 
+-  https://github.com/rogerxiii/kernel-codecave-poc
 -  https://github.com/ZhuHuiBeiShaDiao/DriverMaper
 -  https://github.com/fadetrack/KernelMemoryModule (Enable Exception)
 -  https://github.com/not-wlan/driver-hijack
@@ -1174,6 +1176,7 @@
 
 ## av evasion
 
+-  https://github.com/sv3nbeast/ImgLoaderShellCode
 -  https://github.com/ReddyyZ/GhostShell
 -  https://github.com/nccgroup/Winpayloads
 -  https://github.com/TideSec/BypassAntiVirus
@@ -1436,6 +1439,7 @@
 
 ## cve
 
+-  https://github.com/yardenshafir/CVE-2020-1034
 -  https://github.com/ioncodes/CVE-2020-16938
 -  https://github.com/Ascotbe/Kernelhub
 -  https://github.com/DownWithUp/CVE-Stockpile
@@ -1494,6 +1498,7 @@
 
 ## vt
 
+-  https://github.com/sooqua/VanderLeague (hack lol)
 -  https://github.com/cyberus-technology/hedron.git
 -  https://github.com/kukrimate/grr
 -  https://github.com/hvmi/hvmi
@@ -1621,8 +1626,10 @@
 
 ## game hack
 
+-  https://github.com/sooqua/VanderLeague (LOL)
 -  https://github.com/Speedi13/ROP-COMPILER (VAC / PB)
 -  https://github.com/Aki2k/BEDaisy(battleyes kernel driver)
+-  https://github.com/dretax/GarHal_CSGO (csgo)
 -  https://github.com/nbqofficial/kernel-csgo (csgo)
 -  https://www.youtube.com/playlist?list=PL8TEddGT5w_j80QNqkFwl3stUTxlHol_h (LOL)
 -  https://github.com/mq1n/BadEye (BattlEye)
@@ -2280,6 +2287,7 @@
 
 ## post-exploitation
 
+- https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
 - https://github.com/0x09AL/DNS-Persist (DNS C&C)
 - https://github.com/francisck/DanderSpritz_lab 
 - https://github.com/francisck/DanderSpritz_docs
