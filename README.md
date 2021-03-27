@@ -1155,6 +1155,7 @@
 
 ## malware analysis
 
+-  https://github.com/huoji120/DuckMemoryScan
 -  https://github.com/JPCERTCC/EmoCheck
 -  https://github.com/G4rb3n/Malware-Killer
 -  https://github.com/G4rb3n/Malware-Picture
@@ -1499,6 +1500,7 @@
 
 ## vt
 
+-  https://github.com/amiryeshurun/HyperWin
 -  https://github.com/sooqua/VanderLeague (hack lol)
 -  https://github.com/cyberus-technology/hedron.git
 -  https://github.com/kukrimate/grr
@@ -1779,6 +1781,7 @@
 
 ## deobfuscation
 
+-  https://github.com/nblog/Vm2Import
 -  https://github.com/zodiacddos/BattleEye-EasyAntiCheat-Bypasses
 -  https://github.com/amimo/ollvm-breaker
 -  https://github.com/JonathanSalwan/Tigress_protection
@@ -2247,6 +2250,7 @@
 
 ## vm
 
+-  https://github.com/nblog/Vm2Import
 -  https://github.com/can1357/NoVmp
 -  https://github.com/etsubu/NanoVM (x64)
 -  https://github.com/tboox/vm86
