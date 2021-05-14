@@ -1611,6 +1611,11 @@
 -  https://github.com/marche147/IoctlMon
 -  https://github.com/k0keoyo/Some-Kernel-Fuzzing-Paper
 
+## fuzz & vulnerability discovery learn
+
+-  https://github.com/Kiprey/Skr_Learning
+-  https://kiprey.github.io/categories/
+
 ## emet
 
 -  https://github.com/codingtest/EMET
@@ -2810,6 +2815,7 @@
 -  https://github.com/skylot/jadx
 -  https://github.com/Konloch/bytecode-viewer
 -  https://github.com/MobSF/Mobile-Security-Framework-MobSF
+-  https://github.com/FeJQ/AUPK ()
 
 ## xposed
 
