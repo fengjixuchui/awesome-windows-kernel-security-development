@@ -461,6 +461,7 @@
 
 ## windows kernel driver with c++ runtime
 
+-  https://github.com/jxy-s/stlkrn (C++ STL in the Windows Kernel with C++ Exception Support)
 -  https://github.com/r1cky33/kernel_gdi_renderer
 -  https://github.com/haram/kernel_library
 -  https://github.com/avakar/vcrtl
@@ -1442,6 +1443,7 @@
 
 ## cve
 
+-  https://github.com/stong/CVE-2020-15368
 -  https://github.com/yardenshafir/CVE-2020-1034
 -  https://github.com/ioncodes/CVE-2020-16938
 -  https://github.com/Ascotbe/Kernelhub
